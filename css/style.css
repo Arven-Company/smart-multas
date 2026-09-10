@@ -363,6 +363,7 @@ h3 { font-size: 24px; }
   box-shadow: 0 0 14px 3px rgba(37, 99, 235, 0.35);
   opacity: 0;
   pointer-events: none;
+  transition: opacity .4s ease;
 }
 .notif-card.scanning .scan-line { opacity: 1; animation: scan 2.3s linear forwards; }
 @keyframes scan { from { top: 64px; } to { top: calc(100% - 38px); } }

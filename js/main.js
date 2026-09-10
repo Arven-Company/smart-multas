@@ -79,6 +79,7 @@
       later(function () { f.classList.add('settle'); }, 300 + i * 230 + 900);
     });
     later(function () {
+      notif.classList.remove('scanning');
       st.classList.add('done');
       st.innerHTML = '<svg width="11" height="11"><use href="#i-check"/></svg> Leitura concluída · ' + fields.length + ' campos';
     }, 2600);
