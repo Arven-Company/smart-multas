@@ -2,7 +2,7 @@
 (function () {
   'use strict';
 
-  var APP_URL = 'https://smartmultas.com.br/define-violation';
+  var APP_URL = 'app/';
 
   /* ---------- header ---------- */
   var header = document.querySelector('.header');
@@ -235,7 +235,118 @@
   if (search) {
     search.addEventListener('submit', function (e) {
       e.preventDefault();
-      window.location.href = APP_URL;
+      var code = (search.querySelector('input').value || '').replace(/[^0-9]/g, '');
+      window.location.href = APP_URL + (code ? '?codigo=' + code : '');
+    });
+  }
+
+  /* ---------- modal glass: tipos de multa ---------- */
+  var modal = document.getElementById('modal-multas');
+  if (modal) {
+    var list = document.getElementById('modal-list');
+    var cats = document.getElementById('modal-cats');
+    var count = document.getElementById('modal-count');
+    var q = document.getElementById('modal-q');
+    var activeCat = 'Todas';
+    var lastFocus = null;
+    var dataLoading = false;
+
+    function norm(s) {
+      return String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+    }
+    function sevClass(g) {
+      return 'sev sev-' + norm(g);
+    }
+    function esc(s) {
+      return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function renderCats() {
+      var all = ['Todas'].concat(window.SM_MULTAS.reduce(function (acc, m) { if (acc.indexOf(m.k) < 0) acc.push(m.k); return acc; }, []));
+      cats.innerHTML = all.map(function (c) {
+        return '<button type="button" class="' + (c === activeCat ? 'active' : '') + '" data-cat="' + esc(c) + '">' + esc(c) + '</button>';
+      }).join('');
+    }
+
+    function renderList() {
+      var term = norm(q.value.trim());
+      var termDigits = term.replace(/[^0-9]/g, '');
+      var items = window.SM_MULTAS.filter(function (m) {
+        if (activeCat !== 'Todas' && m.k !== activeCat) return false;
+        if (!term) return true;
+        if (termDigits && (m.c.indexOf(termDigits) === 0 || norm(m.a).indexOf(termDigits) >= 0)) return true;
+        return norm(m.n).indexOf(term) >= 0 || norm(m.a).indexOf(term) >= 0 || norm(m.s).indexOf(term) >= 0;
+      });
+      count.textContent = items.length === window.SM_MULTAS.length
+        ? 'Exibindo todas as ' + items.length + ' infrações'
+        : items.length + ' de ' + window.SM_MULTAS.length + ' infrações';
+      if (!items.length) {
+        list.innerHTML = '<div class="mult-empty">Nenhuma infração encontrada. Tente o código com 4 ou 5 dígitos, o artigo do CTB ou uma palavra da descrição.</div>';
+        return;
+      }
+      list.innerHTML = items.map(function (m) {
+        return '<div class="mult">' +
+          '<div>' +
+            '<div class="mult-top"><span class="mult-code">Cód. ' + esc(m.c) + '</span><span class="' + sevClass(m.g) + '">' + esc(m.g) + '</span><span class="mult-cat">' + esc(m.k) + '</span></div>' +
+            '<div class="mult-name">' + esc(m.n) + '</div>' +
+            '<div class="mult-meta">' + esc(m.a) + ' · ' + m.p + ' pontos · <b>' + esc(m.v) + '</b>' + (m.w ? ' · cabe advertência' : '') + '</div>' +
+          '</div>' +
+          '<div class="mult-actions">' +
+            '<a class="btn btn-outline btn-sm" href="https://smartmultas.com.br/multas/' + esc(m.s) + '">Ver guia</a>' +
+            '<a class="btn btn-primary btn-sm" href="' + APP_URL + '?codigo=' + esc(m.c) + '">Recorrer</a>' +
+          '</div>' +
+        '</div>';
+      }).join('');
+      list.scrollTop = 0;
+    }
+
+    function ready() {
+      renderCats();
+      renderList();
+      q.focus();
+    }
+
+    function loadData() {
+      if (window.SM_MULTAS) { ready(); return; }
+      if (dataLoading) return;
+      dataLoading = true;
+      var s = document.createElement('script');
+      s.src = 'js/multas-data.js';
+      s.onload = ready;
+      s.onerror = function () { list.innerHTML = '<div class="mult-empty">Não foi possível carregar o catálogo.</div>'; };
+      document.head.appendChild(s);
+    }
+
+    function openModal() {
+      lastFocus = document.activeElement;
+      modal.classList.add('open');
+      modal.setAttribute('aria-hidden', 'false');
+      document.body.classList.add('modal-open');
+      loadData();
+    }
+    function closeModal() {
+      modal.classList.remove('open');
+      modal.setAttribute('aria-hidden', 'true');
+      document.body.classList.remove('modal-open');
+      if (lastFocus && lastFocus.focus) lastFocus.focus();
+    }
+
+    document.querySelectorAll('[data-modal="multas"]').forEach(function (a) {
+      a.addEventListener('click', function (e) { e.preventDefault(); openModal(); });
+    });
+    modal.querySelectorAll('[data-close]').forEach(function (el) {
+      el.addEventListener('click', function (e) { if (e.target === el || el.classList.contains('modal-close')) closeModal(); });
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && modal.classList.contains('open')) closeModal();
+    });
+    q.addEventListener('input', function () { if (window.SM_MULTAS) renderList(); });
+    cats.addEventListener('click', function (e) {
+      var b = e.target.closest('button[data-cat]');
+      if (!b) return;
+      activeCat = b.dataset.cat;
+      renderCats();
+      renderList();
     });
   }
 })();

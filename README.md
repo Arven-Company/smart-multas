@@ -5,12 +5,14 @@ Landing page + páginas legais em HTML/CSS/JS puro, sem build. Fase 1 do plano e
 ## Estrutura
 
 ```
-index.html          landing page (JSON-LD @graph, OG, canonical)
+index.html          landing page (JSON-LD @graph, OG, canonical) + modal "Tipos de multa"
 privacidade.html    Política de Privacidade
 termos.html         Termos de Uso
-css/style.css       tokens em :root + componentes + responsivo (1024 / 720)
-js/main.js          header, abas do demo, demo de análise, FAQ, reveal, contadores, busca
+app/                mock do app de recurso (6 passos, client-side, noindex): index.html, app.css, app.js
+css/style.css       tokens em :root + componentes + modal glass + responsivo (1024 / 960 / 720)
+js/main.js          header, abas do demo, demo de análise, FAQ, reveal, contadores, busca, modal
 js/effects.js       text reveal, marcador, feixes animados
+js/multas-data.js   catálogo das 234 infrações (gerado de docs/data/fines.json), carregado sob demanda
 assets/             logo, fontes Inter (woff2), og-image.png (1200×630)
 favicon.svg/.ico, icon-192.png, icon-512.png, apple-touch-icon.png
 robots.txt, sitemap.xml, llms.txt, site.webmanifest
@@ -19,7 +21,7 @@ docs/               levantamento do site atual, dataset das 234 infrações, spe
 
 ## Constantes (troca por find/replace)
 
-- App de recurso: `https://smartmultas.com.br/define-violation`
+- CTAs "Recorrer" apontam para o mock `app/` (`APP_URL` em `js/main.js` e `href="app/"` no HTML). Para o app real: `https://smartmultas.com.br/define-violation` (os `Offer.url` do JSON-LD já apontam para ele).
 - Área logada: `https://smartmultas.com.br/user-petitions`
 - WhatsApp: `https://wa.me/553121812033`
 - Canonical/OG: `https://smartmultas.com.br/`
