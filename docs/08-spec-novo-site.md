@@ -24,7 +24,7 @@ Botões: `.btn-primary` navy (ink), `.btn-cta` verde (conversão: hero, planos, 
 ## Seções da LP (ordem)
 
 1. Header fixo: logo (placa) + wordmark "Smart Multas" + chip "IA"; nav Como funciona · Por que recorrer · Planos · FAQ; "Entrar"; CTA "Recorrer minha multa".
-2. Hero: H1 "Cancele sua multa em minutos." (text reveal) + aside com marcador em "sem pagar a multa antes" + CTA verde "Recorrer minha multa" + "Ver a IA em ação" + micro-provas (a partir de R$ 39,90 · PDF em 3 minutos · garantia de 7 dias).
+2. Hero: H1 "Recorra da sua multa em minutos." (text reveal; "Cancele" foi trocado em 10/09 para não prometer resultado) + aside com marcador em "sem pagar a multa antes" + CTA verde "Recorrer minha multa" + "Ver a IA em ação" + micro-provas (a partir de R$ 39,90 · PDF em 3 minutos · garantia de 7 dias).
 3. Painel demo com 3 abas: Análise da multa (conversa animada com eventos laterais: brecha identificada, tese aplicada, PDF pronto; respostas rápidas) · Petição gerada (frame do app com o PDF) · Protocolo e status (próximos passos + acompanhamento Defesa prévia → JARI → CETRAN). Chips + nota "dados ilustrativos".
 4. Órgãos: "Válido em todos os órgãos autuadores" (DETRANs, PRF, DNIT, CET/DSV, DER).
 5. Intro "Análise jurídica e petição pronta no mesmo lugar" + diagrama com feixes: Foto da notificação / Código da multa → IA Smart Multas → Teses jurídicas / Petição PDF / Protocolo.

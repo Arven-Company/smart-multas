@@ -147,7 +147,7 @@
     if (a.q_radar === 'fixo' || a.q_radar === 'movel') t.push({ law: 'Resolução CONTRAN 798/20', title: 'Aferição do radar pelo INMETRO', desc: 'Pedido de juntada do laudo de verificação metrológica válido nos últimos 12 meses e da margem de erro aplicada. Sem laudo, a medição é nula.' });
     if (a.q_sign === 'nao' || a.q_sign === 'ns') t.push({ law: 'Art. 280 do CTB', title: 'Sinalização irregular ou ausente', desc: 'A autuação depende de sinalização regulamentar visível no local. Pedido de comprovação da sinalização e de anulação na sua falta.' });
     t.push({ law: 'Art. 280 do CTB', title: 'Requisitos formais do auto de infração', desc: 'Verificação de local, data e hora, identificação do veículo, do agente e do órgão. Vício insanável anula o procedimento.' });
-    t.push({ law: 'Arts. 284 e 286 do CTB · CF, art. 5º, LV', title: 'Defesa sem pagamento prévio', desc: 'Garantia do contraditório e da ampla defesa: o recurso não exige a quitação da multa e suspende a pontuação até a decisão.' });
+    t.push({ law: 'Arts. 284 e 286 do CTB · CF, art. 5º, LV', title: 'Defesa sem pagamento prévio', desc: 'Garantia do contraditório e da ampla defesa: o recurso não exige a quitação da multa; a pontuação depende da decisão do órgão.' });
     return t;
   }
   function runAnalysis() {
