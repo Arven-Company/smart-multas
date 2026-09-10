@@ -313,26 +313,49 @@
         </div>
 
         <div class="demo-stage">
-          <!-- vista 1: análise -->
+          <!-- vista 1: análise (scanner da notificação + checklist jurídico) -->
           <div class="demo-view active" data-view="chat">
-            <div class="chat-wrap">
-              <div class="chat-card">
-                <div class="chat-head">
-                  <div class="chat-avatar"><svg width="18" height="18"><use href="#i-sparkle"/></svg></div>
-                  <div>
-                    <div class="chat-name">Análise da multa · IA Smart Multas</div>
-                    <div class="chat-status"><span class="dot-online"></span> IA online</div>
+            <div class="scan-wrap">
+              <div class="notif-card" id="notif" aria-label="Notificação de autuação sendo lida pela IA">
+                <div class="notif-head">
+                  <div class="notif-org">
+                    <span class="notif-seal"><svg width="16" height="16"><use href="#i-camera"/></svg></span>
+                    <div>
+                      <div class="notif-title">Notificação da autuação</div>
+                      <div class="notif-sub">DETRAN/MG · Auto de Infração nº AB01234567</div>
+                    </div>
                   </div>
-                  <button class="chat-replay" id="chat-replay" title="Repetir demonstração" aria-label="Repetir demonstração">↺</button>
+                  <span class="notif-status" id="scan-status"><i class="spin"></i> Lendo…</span>
+                  <button class="scan-replay" id="scan-replay" title="Repetir demonstração" aria-label="Repetir demonstração">↺</button>
                 </div>
-                <div class="chat-body" id="chat-body" aria-live="polite"></div>
-                <div class="chat-quick" id="chat-quick"></div>
+                <div class="notif-grid">
+                  <div class="nf" data-f="1"><span>Placa</span><strong>ABC1D23</strong></div>
+                  <div class="nf" data-f="2"><span>Código da infração</span><strong>745-5</strong></div>
+                  <div class="nf" data-f="3"><span>Enquadramento</span><strong>Art. 218, I do CTB</strong></div>
+                  <div class="nf" data-f="4"><span>Data da infração</span><strong>01/08/2026</strong></div>
+                  <div class="nf" data-f="5"><span>Expedição da notificação</span><strong>12/09/2026</strong></div>
+                  <div class="nf" data-f="6"><span>Local</span><strong>Av. Amazonas, 1200</strong></div>
+                  <div class="nf" data-f="7"><span>Velocidade medida / considerada</span><strong>68 / 61 km/h</strong></div>
+                  <div class="nf" data-f="8"><span>Equipamento</span><strong>Radar fixo · laudo não informado</strong></div>
+                  <div class="nf" data-f="9"><span>Valor · pontos</span><strong>R$ 130,16 · 4 pontos</strong></div>
+                </div>
+                <div class="scan-line" aria-hidden="true"></div>
+                <div class="notif-foot">Modelo ilustrativo de notificação · dados fictícios</div>
               </div>
-              <div class="chat-side">
-                <div class="chat-side-title">Enquanto isso, na petição</div>
-                <div class="side-event" data-step="3"><span class="se-ico se-amber"><svg width="14" height="14"><use href="#i-alert"/></svg></span> Brecha identificada: notificação após 30 dias</div>
-                <div class="side-event" data-step="5"><span class="se-ico se-blue"><svg width="14" height="14"><use href="#i-scale"/></svg></span> Tese aplicada: conversão em advertência</div>
-                <div class="side-event" data-step="6"><span class="se-ico se-green"><svg width="14" height="14"><use href="#i-check"/></svg></span> Petição em PDF pronta · liberação via PIX</div>
+
+              <div class="check-list" id="checks" aria-live="polite">
+                <div class="check-title">Verificação jurídica da IA</div>
+                <div class="ck" data-k="1"><span class="ck-ico"><svg width="12" height="12"><use href="#i-check"/></svg></span><div class="ck-body"><div class="ck-name">Prazo de notificação · Art. 281, II</div><div class="ck-detail">Expedida 42 dias após a infração. Limite legal: 30 dias.</div></div><span class="ck-verdict ok">Nulidade</span></div>
+                <div class="ck" data-k="2"><span class="ck-ico"><svg width="12" height="12"><use href="#i-check"/></svg></span><div class="ck-body"><div class="ck-name">Aferição do radar · Res. CONTRAN 798/20</div><div class="ck-detail">Laudo do INMETRO não informado no auto.</div></div><span class="ck-verdict ok">Pedir laudo</span></div>
+                <div class="ck" data-k="3"><span class="ck-ico"><svg width="12" height="12"><use href="#i-check"/></svg></span><div class="ck-body"><div class="ck-name">Reincidência · Art. 267</div><div class="ck-detail">Primeira infração em 12 meses, natureza média.</div></div><span class="ck-verdict ok">Advertência</span></div>
+                <div class="ck neutral" data-k="4"><span class="ck-ico"><svg width="12" height="12"><use href="#i-minus"/></svg></span><div class="ck-body"><div class="ck-name">Sinalização e dados do agente · Art. 280</div><div class="ck-detail">Sem inconsistência encontrada.</div></div><span class="ck-verdict">Conforme</span></div>
+                <div class="scan-summary" id="scan-summary">
+                  <div class="scan-summary-h"><svg width="15" height="15"><use href="#i-check"/></svg> 3 teses aplicáveis · petição gerada em PDF</div>
+                  <div class="scan-actions">
+                    <button type="button" class="btn btn-outline btn-sm" data-goto="platform">Ver petição</button>
+                    <a href="app/?codigo=7455" class="btn btn-primary btn-sm">Recorrer agora</a>
+                  </div>
+                </div>
               </div>
             </div>
           </div>

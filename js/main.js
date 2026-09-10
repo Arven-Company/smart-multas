@@ -41,127 +41,71 @@
     });
   });
 
-  /* ---------- demo de análise da multa ---------- */
-  var chatBody = document.getElementById('chat-body');
-  var chatQuick = document.getElementById('chat-quick');
-  var replayBtn = document.getElementById('chat-replay');
+  /* ---------- demo: scanner da notificação + checklist jurídico ---------- */
+  var notif = document.getElementById('notif');
   var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-
-  var script = [
-    { who: 'in',  text: 'Recebi uma multa com o código 7455. Dá para recorrer?' },
-    { who: 'out', text: 'Dá sim. Código 745-5: velocidade até 20% acima do limite (Art. 218, I do CTB). Infração média, 4 pontos, R$ 130,16. Vou verificar as brechas. A notificação chegou mais de 30 dias depois da data da infração?' },
-    { who: 'in',  text: 'Sim, chegou com 42 dias.' },
-    { who: 'out', text: 'Então o auto é nulo por decadência: o Art. 281, II do CTB exige a notificação em até 30 dias. Você teve outra multa nos últimos 12 meses?', event: 3 },
-    { who: 'in',  text: 'Não, foi a primeira.' },
-    { who: 'out', text: 'Ótimo. Também cabe a conversão em advertência por escrito (Art. 267). Vou incluir as duas teses e o pedido do laudo de aferição do radar (Resolução CONTRAN 798/20).', event: 5 },
-    { who: 'sys', text: 'Petição gerada · PDF pronto para download', event: 6 }
-  ];
-
-  var quickReplies = [
-    { q: 'E se o radar não tiver laudo?', a: 'Sem laudo de verificação do INMETRO válido nos últimos 12 meses, a medição é nula. A petição pede a juntada do laudo e a anulação em caso de ausência.' },
-    { q: 'Preciso pagar a multa antes?', a: 'Não. Os Arts. 284 e 286 do CTB garantem a defesa prévia e o recurso à JARI sem pagamento prévio da penalidade.' },
-    { q: 'Quanto custa?', a: 'R$ 39,90 pela petição em PDF. Com exames e laudos anexados, R$ 69,90. Protocolo e acompanhamento por advogado, R$ 690.' }
-  ];
-
-  var chatTimers = [];
-  var chatStarted = false;
+  var scanTimers = [];
+  var scanStarted = false;
 
   function wait(ms) { return reduceMotion ? 0 : ms; }
 
   function later(fn, ms) {
     var t = setTimeout(fn, wait(ms));
-    chatTimers.push(t);
+    scanTimers.push(t);
   }
 
-  function scrollChat() {
-    chatBody.scrollTop = chatBody.scrollHeight;
+  function resetScan() {
+    scanTimers.forEach(clearTimeout);
+    scanTimers = [];
+    notif.classList.remove('scanning');
+    var st = document.getElementById('scan-status');
+    st.classList.remove('done');
+    st.innerHTML = '<i class="spin"></i> Lendo…';
+    document.querySelectorAll('.nf').forEach(function (f) { f.classList.remove('hit', 'settle'); });
+    document.querySelectorAll('.ck').forEach(function (c) { c.classList.remove('run', 'done'); });
+    document.getElementById('scan-summary').classList.remove('on');
   }
 
-  function addMsg(who, text) {
-    var el = document.createElement('div');
-    if (who === 'sys') {
-      el.className = 'msg-sys';
-      el.innerHTML = '<svg width="13" height="13"><use href="#i-check"/></svg> ' + text;
-    } else {
-      el.className = 'msg msg-' + who;
-      el.innerHTML = who === 'out' ? '<span class="msg-tag">IA Smart Multas</span>' + text : text;
-    }
-    chatBody.appendChild(el);
-    scrollChat();
-  }
+  function startScan() {
+    resetScan();
+    var fields = document.querySelectorAll('.nf');
+    var checks = document.querySelectorAll('.ck');
+    var st = document.getElementById('scan-status');
 
-  function showTyping() {
-    var t = document.createElement('div');
-    t.className = 'typing';
-    t.innerHTML = '<i></i><i></i><i></i>';
-    chatBody.appendChild(t);
-    scrollChat();
-    return t;
-  }
-
-  function fireEvent(step) {
-    var ev = document.querySelector('.side-event[data-step="' + step + '"]');
-    if (ev) ev.classList.add('on');
-  }
-
-  function playStep(i) {
-    if (i >= script.length) { showQuickReplies(); return; }
-    var m = script[i];
-    if (m.who === 'out') {
-      var typing = showTyping();
-      later(function () {
-        typing.remove();
-        addMsg(m.who, m.text);
-        if (m.event) fireEvent(m.event);
-        later(function () { playStep(i + 1); }, 700);
-      }, 1100);
-    } else {
-      addMsg(m.who, m.text);
-      if (m.event) fireEvent(m.event);
-      later(function () { playStep(i + 1); }, m.who === 'sys' ? 500 : 800);
-    }
-  }
-
-  function showQuickReplies() {
-    chatQuick.innerHTML = '';
-    quickReplies.forEach(function (qr) {
-      var b = document.createElement('button');
-      b.type = 'button';
-      b.textContent = qr.q;
-      b.addEventListener('click', function () {
-        b.remove();
-        addMsg('in', qr.q);
-        var typing = showTyping();
-        later(function () {
-          typing.remove();
-          addMsg('out', qr.a);
-        }, 900);
-      });
-      chatQuick.appendChild(b);
+    // leitura: linha de scan desce e os campos vão sendo detectados
+    later(function () { notif.classList.add('scanning'); }, 150);
+    fields.forEach(function (f, i) {
+      later(function () { f.classList.add('hit'); }, 300 + i * 230);
+      later(function () { f.classList.add('settle'); }, 300 + i * 230 + 900);
     });
+    later(function () {
+      st.classList.add('done');
+      st.innerHTML = '<svg width="11" height="11"><use href="#i-check"/></svg> Leitura concluída · ' + fields.length + ' campos';
+    }, 2600);
+
+    // verificação jurídica: uma checagem por vez
+    var base = 2800;
+    checks.forEach(function (c, k) {
+      later(function () { c.classList.add('run'); }, base + k * 800);
+      later(function () { c.classList.remove('run'); c.classList.add('done'); }, base + k * 800 + 600);
+    });
+    later(function () { document.getElementById('scan-summary').classList.add('on'); }, base + checks.length * 800 + 100);
   }
 
-  function resetChat() {
-    chatTimers.forEach(clearTimeout);
-    chatTimers = [];
-    chatBody.innerHTML = '';
-    chatQuick.innerHTML = '';
-    document.querySelectorAll('.side-event').forEach(function (e) { e.classList.remove('on'); });
-  }
-
-  function startChat() {
-    resetChat();
-    later(function () { playStep(0); }, 400);
-  }
-
-  if (chatBody) {
-    replayBtn.addEventListener('click', startChat);
+  if (notif) {
+    document.getElementById('scan-replay').addEventListener('click', startScan);
+    document.querySelectorAll('[data-goto]').forEach(function (b) {
+      b.addEventListener('click', function () {
+        var t = document.querySelector('.demo-tab[data-view="' + b.dataset.goto + '"]');
+        if (t) t.click();
+      });
+    });
     var demo = document.getElementById('demo');
     var demoObserver = new IntersectionObserver(function (entries) {
       entries.forEach(function (entry) {
-        if (entry.isIntersecting && !chatStarted) {
-          chatStarted = true;
-          startChat();
+        if (entry.isIntersecting && !scanStarted) {
+          scanStarted = true;
+          startScan();
           demoObserver.disconnect();
         }
       });
