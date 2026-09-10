@@ -1,0 +1,24 @@
+# Smart Multas
+
+> Smart Multas é uma plataforma brasileira de elaboração automatizada de recursos de multas de trânsito utilizando Inteligência Artificial especializada no Código de Trânsito Brasileiro (CTB) e resoluções do CONTRAN.
+
+## Serviços & Recursos
+
+- [Início](https://smartmultas.com.br/): Plataforma principal para recurso de multas de trânsito online com IA.
+- [Tipos de Multas](https://smartmultas.com.br/multas): Catálogo completo de infrações do CTB com valores, pontos e fundamentação.
+- [Blog](https://smartmultas.com.br/blog): Artigos informativos sobre legislação de trânsito e direitos do motorista.
+- [Dúvidas Frequentes](https://smartmultas.com.br/faq): Respostas sobre defesa prévia, recursos à JARI e CETRAN.
+- [Para Despachantes](https://smartmultas.com.br/despachantes): Soluções B2B para despachantes e frotas.
+- [Sobre](https://smartmultas.com.br/sobre): Missão e tecnologia da plataforma.
+- [Política de Privacidade](https://smartmultas.com.br/privacy-policy): Diretrizes de privacidade e proteção de dados (LGPD).
+- [Termos de Uso](https://smartmultas.com.br/terms-of-use): Termos de prestação de serviços.
+
+## Planos e Preços
+
+- **Petição Avulsa:** R$ 19,90 por recurso gerado (pagamento único via Mercado Pago / PIX).
+- **Plano Ilimitado Anual:** R$ 99,00 por ano com geração ilimitada de recursos para qualquer veículo.
+
+## Atendimento
+
+- **WhatsApp:** (31) 2181-2033
+- **Site:** https://smartmultas.com.br

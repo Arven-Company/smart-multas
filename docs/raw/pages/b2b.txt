@@ -1,0 +1,11 @@
+Portal B2B API
+
+Acesse sua conta de empresa parceira
+
+E-mail *
+E-mail *
+Senha *
+Senha *
+Entrar
+
+Ainda não tem conta? Cadastre sua empresa

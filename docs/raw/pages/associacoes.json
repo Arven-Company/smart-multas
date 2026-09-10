@@ -1,0 +1,530 @@
+{
+  "title": "Smart Multas",
+  "meta": {
+    "viewport": "width=device-width, initial-scale=1",
+    "theme-color": "#1E293B",
+    "description": "Smart Multas - Recurso de Multa de Trânsito Online com Inteligência Artificial. Petição com IA, documentos ou protocolo com advogado. Pagamento seguro via Mercado Pago."
+  },
+  "ld": [],
+  "headings": [
+    "H5: Smart Multas IA",
+    "H6: Smart Multas PROTEÇÃO VEICULAR",
+    "H1: Multiplique as receitas da sua Proteção Veicular protegendo a CNH dos associados.",
+    "H6: Ofereça recursos de multas com inteligência artificial e leitura de notificações por foto diretamente no app do seu associado. Ganhe até R$ 6,00 de lucro líquido por mês por veículo, reduza cancelamentos e zere a burocracia para sua equipe.",
+    "H6: Clube CNH Protegida",
+    "H3: Quanto sua Associação pode faturar a mais todo mês?",
+    "H6: Total de veículos na sua base:",
+    "H6: 5.000 veículos",
+    "H6: Taxa de adesão do associado ao Add-on:",
+    "H6: 20% (1.000 vidas)",
+    "H6: Valor adicionado no boleto mensal:",
+    "H6: R$ 9,90 / mês",
+    "H2: R$ 6.000,00",
+    "H6: + R$ 72.000,00 por ano de caixa limpo",
+    "H3: Escolha o modelo ideal para a maturidade da sua Associação",
+    "H5: Add-on no Boleto",
+    "H6: R$ 9,90 / mês",
+    "H5: Base Total (PMPM)",
+    "H6: R$ 0,75 a R$ 1,20 / carro",
+    "H5: Clube de Benefícios",
+    "H6: R$ 0,00 (Zero Custo)",
+    "H3: Como garantimos Zero Dor de Cabeça para sua Associação:",
+    "H6: 100% Amparado na Constituição Federal (Art. 5º, XXXIV)",
+    "H6: Sem Funcionários Dedicados",
+    "H6: Suporte Técnico e Jurídico Integrado",
+    "H6: Integração Imediata com seu ERP de Proteção Veicular",
+    "H3: Dúvidas Frequentes de Diretores e Presidentes de APVs",
+    "H3: A associação precisa contratar funcionários ou advogados para operar?",
+    "H6: A associação precisa contratar funcionários ou advogados para operar?",
+    "H3: O que acontece se o recurso do associado for indeferido?",
+    "H6: O que acontece se o recurso do associado for indeferido?",
+    "H3: Como a associação recebe o dinheiro das comissões ou do add-on?",
+    "H6: Como a associação recebe o dinheiro das comissões ou do add-on?",
+    "H3: Como integrar ao aplicativo de associado que já usamos (ex: Hinova SGA)?",
+    "H6: Como integrar ao aplicativo de associado que já usamos (ex: Hinova SGA)?",
+    "H3: Podemos testar antes de divulgar para toda a base?",
+    "H6: Podemos testar antes de divulgar para toda a base?",
+    "H4: Comece a proteger a CNH dos seus associados nesta semana",
+    "H6: Legislação Atualizada",
+    "H6: Inteligência Artificial",
+    "H6: Pagamento Seguro",
+    "H6: Direito de Defesa",
+    "H5: Smart Multas",
+    "H6: Recursos & Multas",
+    "H6: Para Profissionais",
+    "H6: Atendimento Oficial"
+  ],
+  "links": [
+    {
+      "text": "Smart Multas IA Defesa e Recursos de Trânsito",
+      "href": "/"
+    },
+    {
+      "text": "Tipos de Multas",
+      "href": "/multas"
+    },
+    {
+      "text": "Ranking",
+      "href": "/ranking-multas"
+    },
+    {
+      "text": "Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Recorrer Multa",
+      "href": "/define-violation"
+    },
+    {
+      "text": "Tipos de Multas (CTB)",
+      "href": "/multas"
+    },
+    {
+      "text": "Ranking de Infrações",
+      "href": "/ranking-multas"
+    },
+    {
+      "text": "Blog de Trânsito",
+      "href": "/blog"
+    },
+    {
+      "text": "Recorrer Minha Multa",
+      "href": "/define-violation"
+    },
+    {
+      "text": "Indique e Ganhe",
+      "href": "/indique"
+    },
+    {
+      "text": "Smart Multas Pro (Despachantes)",
+      "href": "/despachantes"
+    },
+    {
+      "text": "Painel para Advogados",
+      "href": "/advogados"
+    },
+    {
+      "text": "Proteção Veicular & APVs",
+      "href": "/protecao-veicular"
+    },
+    {
+      "text": "API B2B para Frotas",
+      "href": "/api-b2b"
+    },
+    {
+      "text": "Perguntas Frequentes (FAQ)",
+      "href": "/faq"
+    },
+    {
+      "text": "WhatsApp: (31) 2181-2033",
+      "href": "https://wa.me/553121812033?text=Ol%C3%A1!%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida%20sobre%20o%20Smart%20Multas."
+    },
+    {
+      "text": "",
+      "href": "https://wa.me/553121812033?text=Ol%C3%A1!%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida%20sobre%20o%20Smart%20Multas."
+    },
+    {
+      "text": "",
+      "href": "https://www.instagram.com/smartmultas.ia"
+    },
+    {
+      "text": "",
+      "href": "https://youtube.com/@smartmultas9896?si=nbMF_Ibb_4cWUeXy"
+    },
+    {
+      "text": "",
+      "href": "https://www.facebook.com/smartmultas"
+    },
+    {
+      "text": "",
+      "href": "https://www.tiktok.com/@smartmultas"
+    },
+    {
+      "text": "Novamente Software",
+      "href": "https://novamentesoftware.com/"
+    },
+    {
+      "text": "",
+      "href": "https://wa.me/553121812033?text=Ol%C3%A1!%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida%20sobre%20o%20Smart%20Multas."
+    }
+  ],
+  "buttons": [
+    "Entrar",
+    "Simular Lucro",
+    "Modelos de Parceria",
+    "Painel da Associação",
+    "Cadastrar Associação",
+    "Cadastrar Minha Associação Grátis",
+    "Simular Lucro",
+    "Conhecer em 15 Minutos →",
+    "Quero Implantar na Minha Associação →",
+    "Escolher Add-on no Boleto",
+    "Escolher Base Total",
+    "Escolher Clube de Benefícios",
+    "A associação precisa contratar funcionários ou advogados para operar?",
+    "O que acontece se o recurso do associado for indeferido?",
+    "Como a associação recebe o dinheiro das comissões ou do add-on?",
+    "Como integrar ao aplicativo de associado que já usamos (ex: Hinova SGA)?",
+    "Podemos testar antes de divulgar para toda a base?",
+    "Cadastrar Associação Agora →"
+  ],
+  "images": [
+    {
+      "src": "https://smartmultas.com.br/logomultas.webp",
+      "alt": "Smart Multas Logo",
+      "w": 192,
+      "h": 192
+    },
+    {
+      "src": "https://smartmultas.com.br/logomultas.webp",
+      "alt": "Smart Multas Logo",
+      "w": 192,
+      "h": 192
+    }
+  ],
+  "text": "Smart Multas\nIA\nDefesa e Recursos de Trânsito\nTipos de Multas\nRanking\nBlog\nEntrar\nRecorrer Multa\nSmart Multas\nPROTEÇÃO VEICULAR\nSimular Lucro\nModelos de Parceria\nPainel da Associação\nCadastrar Associação\nSolução Exclusiva para Associações de Proteção Veicular e Cooperativas\nMultiplique as receitas da sua Proteção Veicular protegendo a CNH dos associados.\nOfereça recursos de multas com inteligência artificial e leitura de notificações por foto diretamente no app do seu associado. Ganhe até R$ 6,00 de lucro líquido por mês por veículo, reduza cancelamentos e zere a burocracia para sua equipe.\nCadastrar Minha Associação Grátis\nSimular Lucro\n\nMargem de até 60% no Add-on\n\nZero operadores na associação\n\nLeitura de multa por OCR em 3s\n\nPrevenção de CNH suspensa em sinistros\n\nClube CNH Protegida\nAutoatendimento Co-Branded\nONLINE 24/7\nCOMO SEU ASSOCIADO VÊ NO APP\n\n📸 Tire foto da notificação da multa\n\nOCR Inteligente Detectou:\nArt. 218, II (Excesso de velocidade) · Defesa com Portaria INMETRO 158/2022\nTempo de geração da petição:\nMenos de 2 minutos\nTrabalho da equipe da associação:\nZero (100% automático)\nProtocolo no DETRAN/CDT:\nInstruções passo a passo\nConhecer em 15 Minutos →\nSIMULADOR DE RECEITA RECORRENTE\nQuanto sua Associação pode faturar a mais todo mês?\n\nSimule a adição do Clube CNH Segura como opcional no boleto mensal do seu associado. Sem mexer no rateio de sinistros, com dinheiro limpo no caixa da diretoria.\n\nTotal de veículos na sua base:\n5.000 veículos\nArraste para ajustar o tamanho da sua carteira de veículos.\nTaxa de adesão do associado ao Add-on:\n20% (1.000 vidas)\nMédia de mercado para Proteção de CNH: 15% a 30% da base.\nValor adicionado no boleto mensal:\nR$ 9,90 / mês\nSugerido: R$ 9,90/mês para leves e R$ 14,90/mês para pesados/Uber.\nLUCRO LÍQUIDO MENSAL ESTIMADO PARA SUA APV\nR$ 6.000,00\n+ R$ 72.000,00 por ano de caixa limpo\nReceita Bruta Gerada:\n\nR$ 9.900,00\n\nCusto Smart Multas:\n\nR$ 3.900,00\n\nQuero Implantar na Minha Associação →\nFLEXIBILIDADE TOTAL\nEscolha o modelo ideal para a maturidade da sua Associação\n\nNão exigimos taxa de implantação nem fidelidade engessada. Comece pelo modelo que melhor se encaixa na sua operação.\n\nMAIS RECOMENDADO\nMODELO 1 · ALTA MARGEM\nAdd-on no Boleto\n\nAdicione \"Clube CNH Segura\" como opcional na mensalidade. O associado escolhe ativar e a APV retém a maior margem líquida.\n\nCobrado do Associado:\nR$ 9,90 / mês\nLucro da APV: ~R$ 6,00 por adesão\n\nRecursos ilimitados por veículo\n\nZero custo para quem não aderir\n\nBônus para consultores na adesão\n\nSuporte ao associado via IA incluído\n\nEscolher Add-on no Boleto\nMODELO 2 · RETENÇÃO MÁXIMA\nBase Total (PMPM)\n\nEmbuta o benefício para 100% da base por centavos. Use como diferencial comercial imbatível contra outras associações.\n\nCusto Unitário em Atacado:\nR$ 0,75 a R$ 1,20 / carro\nDiluído no rateio mensal\n\n100% dos associados protegidos\n\nRedução drástica de churn (cancelamento)\n\nPrevenção de CNH suspensa em sinistros\n\nArgumento forte para fechar novas adesões\n\nEscolher Base Total\nMODELO 3 · ZERO RISCO\nClube de Benefícios\n\nZero custo fixo. Disponibilize o link com a sua marca: o associado compra petições com desconto e a APV recebe comissão via PIX.\n\nCusto para a Associação:\nR$ 0,00 (Zero Custo)\nRepasse de R$ 10,00 / petição emitida\n\nLink Co-Branded em menos de 24h\n\nAssociado tem 30% de desconto\n\nRepasse mensal automático via PIX\n\nZero responsabilidade ou esforço\n\nEscolher Clube de Benefícios\nCOMPLIANCE & BLINDAGEM OPERACIONAL\nComo garantimos Zero Dor de Cabeça para sua Associação:\n100% Amparado na Constituição Federal (Art. 5º, XXXIV)\n\nO recurso administrativo de trânsito é direito fundamental de petição de todo condutor (Art. 282 do CTB). Não exige advogado e não configura exercício ilegal da advocacia.\n\nSem Funcionários Dedicados\n\nSua equipe não atende telefone, não confere documento e não redige petição. O associado faz tudo sozinho pelo celular em 2 minutos.\n\nSuporte Técnico e Jurídico Integrado\n\nDúvidas sobre o recurso são respondidas diretamente pelo nosso assistente inteligente de IA e pela equipe técnica do Smart Multas.\n\nIntegração Imediata com seu ERP de Proteção Veicular\n\nCompatível com os sistemas de gestão mais utilizados do Brasil:\n\nHinova SGA\n\nSigAuto\n\nMaxxData\n\nMicroWork\n\nSoftia ERP\n\nSistemas Próprios\n\nDISPARO AUTOMATIZADO DE E-MAILS\n\nImporte sua base de associados por planilha CSV em 1 clique e envie comunicados oficiais com o link de acesso da sua associação.\n\nDúvidas Frequentes de Diretores e Presidentes de APVs\n\nTudo o que você precisa saber para apresentar a proposta à sua diretoria com segurança.\n\nA associação precisa contratar funcionários ou advogados para operar?\nO que acontece se o recurso do associado for indeferido?\nComo a associação recebe o dinheiro das comissões ou do add-on?\nComo integrar ao aplicativo de associado que já usamos (ex: Hinova SGA)?\nPodemos testar antes de divulgar para toda a base?\nComece a proteger a CNH dos seus associados nesta semana\n\nCadastre sua associação agora mesmo e acesse o painel completo de gestão, simulador e importador de membros.\n\nCadastrar Associação Agora →\nLegislação Atualizada\nEmbasado no CTB e CONTRAN 2026\nInteligência Artificial\nAnálise técnica de falhas formais\nPagamento Seguro\nCriptografia SSL via Mercado Pago\nDireito de Defesa\nGarantido pelo Art. 5º da CF/88\nSmart Multas\nINTELIGÊNCIA EM DIREITO DE TRÂNSITO\n\nA tecnologia pioneira para motoristas recorrerem de multas indevidas de forma rápida, eficiente e acessível. Analisamos sua autuação e geramos a petição pronta para protocolo.\n\nFORMAS DE PAGAMENTO ACEITAS\nPIX Instantâneo\nCartão de Crédito\nMercado Pago\nRecursos & Multas\nTipos de Multas (CTB)\nRanking de Infrações\nBlog de Trânsito\nRecorrer Minha Multa\nIndique e Ganhe\nPara Profissionais\nSmart Multas Pro (Despachantes)\nPainel para Advogados\nProteção Veicular & APVs\nAPI B2B para Frotas\nPerguntas Frequentes (FAQ)\nAtendimento Oficial\nWhatsApp: (31) 2181-2033\nAtendimento de Segunda a Sexta, das 09h às 18h\nAviso Legal: A Smart Multas é uma plataforma tecnológica de inteligência artificial aplicada ao Direito de Trânsito que auxilia o cidadão a exercer seu direito constitucional de ampla defesa. Não substituímos a assessoria jurídica individualizada de um advogado devidamente inscrito na OAB.\n© 2026 Smart Multas Tecnologia. Todos os direitos reservados.\nDesenvolvido pela Novamente Software",
+  "styles": {
+    "body": {
+      "bg": "rgb(248, 250, 252)",
+      "color": "rgb(51, 65, 85)",
+      "font": "Inter, Roboto, Helvetica, Arial, sans-serif"
+    },
+    "bg": [
+      [
+        "rgb(16, 185, 129)",
+        16
+      ],
+      [
+        "rgb(30, 41, 59)",
+        14
+      ],
+      [
+        "rgb(11, 17, 32)",
+        8
+      ],
+      [
+        "rgb(15, 23, 42)",
+        6
+      ],
+      [
+        "rgba(255, 255, 255, 0.06)",
+        5
+      ],
+      [
+        "rgba(16, 185, 129, 0.1)",
+        4
+      ],
+      [
+        "rgb(255, 255, 255)",
+        3
+      ],
+      [
+        "rgba(16, 185, 129, 0.2)",
+        2
+      ],
+      [
+        "rgb(37, 211, 102)",
+        2
+      ],
+      [
+        "rgba(255, 255, 255, 0.94)",
+        1
+      ],
+      [
+        "rgba(37, 99, 235, 0.1)",
+        1
+      ],
+      [
+        "rgb(37, 99, 235)",
+        1
+      ],
+      [
+        "rgba(15, 23, 42, 0.04)",
+        1
+      ],
+      [
+        "rgba(15, 23, 42, 0.85)",
+        1
+      ],
+      [
+        "rgba(16, 185, 129, 0.12)",
+        1
+      ],
+      [
+        "linear-gradient(135deg, rgb(255, 255, 255) 30%, rgb(167, 243, 208) 100%)",
+        1
+      ],
+      [
+        "rgba(16, 185, 129, 0.15)",
+        1
+      ],
+      [
+        "linear-gradient(135deg, rgba(6, 78, 59, 0.6) 0%, rgba(2, 44, 34, 0.9) 100%)",
+        1
+      ],
+      [
+        "linear-gradient(135deg, rgb(6, 78, 59) 0%, rgb(11, 17, 32) 100%)",
+        1
+      ],
+      [
+        "rgb(9, 13, 22)",
+        1
+      ],
+      [
+        "rgba(15, 23, 42, 0.75)",
+        1
+      ],
+      [
+        "rgba(34, 197, 94, 0.12)",
+        1
+      ],
+      [
+        "rgba(56, 189, 248, 0.12)",
+        1
+      ],
+      [
+        "rgba(255, 255, 255, 0.08)",
+        1
+      ]
+    ],
+    "fg": [
+      [
+        "rgb(148, 163, 184)",
+        41
+      ],
+      [
+        "rgb(248, 250, 252)",
+        24
+      ],
+      [
+        "rgb(203, 213, 225)",
+        23
+      ],
+      [
+        "rgb(110, 231, 183)",
+        10
+      ],
+      [
+        "rgb(16, 185, 129)",
+        10
+      ],
+      [
+        "rgb(255, 255, 255)",
+        9
+      ],
+      [
+        "rgb(100, 116, 139)",
+        7
+      ],
+      [
+        "rgb(226, 232, 240)",
+        6
+      ],
+      [
+        "rgb(71, 85, 105)",
+        5
+      ],
+      [
+        "rgb(2, 44, 34)",
+        4
+      ],
+      [
+        "rgb(56, 189, 248)",
+        3
+      ],
+      [
+        "rgb(6, 78, 59)",
+        2
+      ],
+      [
+        "rgb(51, 65, 85)",
+        1
+      ],
+      [
+        "rgb(37, 99, 235)",
+        1
+      ],
+      [
+        "rgb(167, 243, 208)",
+        1
+      ],
+      [
+        "rgb(34, 197, 94)",
+        1
+      ]
+    ],
+    "fonts": [
+      [
+        "Inter, Roboto, Helvetica, Arial, sans-serif",
+        148
+      ]
+    ],
+    "sizes": [
+      [
+        "12px/400",
+        21
+      ],
+      [
+        "14px/400",
+        21
+      ],
+      [
+        "12px/700",
+        15
+      ],
+      [
+        "14px/700",
+        11
+      ],
+      [
+        "18px/800",
+        10
+      ],
+      [
+        "14.16px/400",
+        10
+      ],
+      [
+        "18px/700",
+        7
+      ],
+      [
+        "13px/700",
+        6
+      ],
+      [
+        "16px/700",
+        5
+      ],
+      [
+        "16px/400",
+        4
+      ],
+      [
+        "14px/500",
+        4
+      ],
+      [
+        "14px/800",
+        4
+      ],
+      [
+        "16px/800",
+        3
+      ],
+      [
+        "14px/600",
+        3
+      ],
+      [
+        "12px/800",
+        3
+      ],
+      [
+        "20px/800",
+        3
+      ],
+      [
+        "16px/600",
+        2
+      ],
+      [
+        "13px/600",
+        2
+      ],
+      [
+        "41.6px/900",
+        2
+      ],
+      [
+        "10.4px/800",
+        1
+      ],
+      [
+        "10.88px/600",
+        1
+      ],
+      [
+        "14.8px/800",
+        1
+      ],
+      [
+        "54.4px/900",
+        1
+      ],
+      [
+        "15px/600",
+        1
+      ],
+      [
+        "12px/600",
+        1
+      ]
+    ],
+    "radii": [
+      [
+        "24px",
+        16
+      ],
+      [
+        "12px",
+        14
+      ],
+      [
+        "8px",
+        12
+      ],
+      [
+        "16px",
+        10
+      ],
+      [
+        "50%",
+        10
+      ],
+      [
+        "48px",
+        8
+      ],
+      [
+        "30px",
+        5
+      ],
+      [
+        "36px",
+        1
+      ],
+      [
+        "11988px",
+        1
+      ]
+    ],
+    "headings": [
+      "H1 54.4px 900 Inter, Roboto, Helvetica, Arial, sans-se rgb(248, 250, 252) lh=62.56px ls=-1.088px",
+      "H3 41.6px 900 Inter, Roboto, Helvetica, Arial, sans-se rgb(248, 250, 252) lh=49.92px ls=-0.416px",
+      "H2 57.6px 900 Inter, Roboto, Helvetica, Arial, sans-se rgb(110, 231, 183) lh=69.12px ls=-1.152px",
+      "H3 41.6px 900 Inter, Roboto, Helvetica, Arial, sans-se rgb(248, 250, 252) lh=49.92px ls=-0.416px",
+      "H3 40px 900 Inter, Roboto, Helvetica, Arial, sans-se rgb(248, 250, 252) lh=48px ls=-0.4px",
+      "H3 38.4px 900 Inter, Roboto, Helvetica, Arial, sans-se rgb(248, 250, 252) lh=46.08px ls=-0.384px",
+      "H3 16px 400 Inter, Roboto, Helvetica, Arial, sans-se rgb(248, 250, 252) lh=25.6px ls=normal",
+      "H3 16px 400 Inter, Roboto, Helvetica, Arial, sans-se rgb(248, 250, 252) lh=25.6px ls=normal",
+      "H3 16px 400 Inter, Roboto, Helvetica, Arial, sans-se rgb(248, 250, 252) lh=25.6px ls=normal",
+      "H3 16px 400 Inter, Roboto, Helvetica, Arial, sans-se rgb(248, 250, 252) lh=25.6px ls=normal",
+      "H3 16px 400 Inter, Roboto, Helvetica, Arial, sans-se rgb(248, 250, 252) lh=25.6px ls=normal"
+    ],
+    "buttons": [
+      "Entrar | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(51, 65, 85) r=30px fs=14.4px fw=600 pad=8px 16px sh=none",
+      " | bg=rgba(15, 23, 42, 0.04) bgi=none color=rgb(15, 23, 42) r=24px fs=24px fw=400 pad=8px sh=none",
+      "Simular Lucro | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(148, 163, 184) r=8px fs=16px fw=600 pad=10px 24px sh=none",
+      "Modelos de Parceria | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(148, 163, 184) r=8px fs=16px fw=600 pad=10px 24px sh=none",
+      "Painel da Associação | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(110, 231, 183) r=8px fs=13px fw=600 pad=10px 24px sh=none",
+      "Cadastrar Associação | bg=rgb(16, 185, 129) bgi=none color=rgb(6, 78, 59) r=8px fs=13px fw=700 pad=10px 24px sh=none",
+      "Cadastrar Minha Associação Grá | bg=rgb(16, 185, 129) bgi=none color=rgb(2, 44, 34) r=8px fs=16.8px fw=800 pad=14.4px 32px sh=rgba(16, 185, 129, 0.4) 0px 10px 25px -5px",
+      "Simular Lucro | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(248, 250, 252) r=8px fs=15px fw=600 pad=14.4px 24px sh=none",
+      "Conhecer em 15 Minutos → | bg=rgb(16, 185, 129) bgi=none color=rgb(6, 78, 59) r=8px fs=16px fw=800 pad=10px 24px sh=none",
+      "Quero Implantar na Minha Assoc | bg=rgb(16, 185, 129) bgi=none color=rgb(2, 44, 34) r=8px fs=16px fw=800 pad=12.8px 24px sh=none",
+      "Escolher Add-on no Boleto | bg=rgb(16, 185, 129) bgi=none color=rgb(2, 44, 34) r=8px fs=16px fw=800 pad=10px 24px sh=none",
+      "Escolher Base Total | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(248, 250, 252) r=8px fs=16px fw=700 pad=10px 24px sh=none"
+    ]
+  }
+}

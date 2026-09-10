@@ -1,0 +1,53 @@
+# Smart Multas
+
+> Recurso de multa de trânsito com inteligência artificial, no Brasil. A IA,
+> treinada no Código de Trânsito Brasileiro (CTB) e nas resoluções do CONTRAN,
+> gera a petição de defesa prévia ou recurso à JARI em PDF, pronta para
+> protocolar, a partir de R$ 39,90. Sem advogado e sem pagar a multa antes.
+> Empresa: NOVAMENTE DESENVOLVIMENTO DE PROJETOS TECNOLÓGICOS LTDA,
+> CNPJ 41.244.251/0001-07, Minas Gerais. Ativa desde 2017.
+
+Como funciona: o usuário fotografa a notificação (OCR) ou digita o código da
+infração, responde perguntas objetivas, paga pelo Mercado Pago (PIX ou cartão)
+e baixa a petição em PDF na hora. Garantia de reembolso de 7 dias (CDC, art. 49).
+
+## Planos e preços (por petição)
+
+- Petição: R$ 39,90. PDF pronto para o usuário protocolar.
+- Petição + documentos: R$ 69,90. Exames, laudos e comprovantes considerados pela IA.
+- Protocolo e acompanhamento: R$ 690,00. A Smart Multas protocola e um advogado acompanha.
+
+## Principal
+
+- [Página inicial](https://smartmultas.com.br/): como funciona, brechas legais, comparativo, planos, FAQ
+- [Como funciona](https://smartmultas.com.br/#como-funciona): foto ou código → perguntas → cruzamento legal → PDF
+- [Por que multas são anuladas](https://smartmultas.com.br/#brechas): Art. 281 II (notificação após 30 dias), Res. CONTRAN 798/20 (aferição do radar), Art. 267 (conversão em advertência), Art. 280 (erros formais)
+- [Planos](https://smartmultas.com.br/#planos)
+- [Dúvidas frequentes](https://smartmultas.com.br/#faq)
+
+## Conteúdo
+
+- [Tipos de multa (234 infrações do CTB)](https://smartmultas.com.br/multas): código, artigo, gravidade, pontos, valor e teses de defesa
+- [Ranking de multas](https://smartmultas.com.br/ranking-multas): dados anônimos por marca, modelo e tipo de infração
+- [Blog](https://smartmultas.com.br/blog): legislação de trânsito, prazos e recursos
+
+## Para profissionais
+
+- [Despachantes](https://smartmultas.com.br/despachantes): white-label, Kanban de prazos, R$ 5,00 por petição
+- [Advogados](https://smartmultas.com.br/advogados): petições timbradas com OAB, Kanban administrativo e judicial
+- [Associações de proteção veicular](https://smartmultas.com.br/associacoes): clube CNH protegida para associados
+- [API B2B](https://smartmultas.com.br/api-b2b): geração de petições via REST para frotas e apps
+
+## Empresa
+
+- [Sobre](https://smartmultas.com.br/#sobre)
+- [Política de Privacidade](https://smartmultas.com.br/privacidade.html)
+- [Termos de Uso](https://smartmultas.com.br/termos.html)
+- Contato: contato@smartmultas.com.br | WhatsApp +55 31 2181-2033 (seg a sex, 9h às 18h)
+
+## Optional
+
+- [Instagram](https://www.instagram.com/smartmultas.ia)
+- [YouTube](https://youtube.com/@smartmultas9896)
+- [Facebook](https://www.facebook.com/smartmultas)
+- [TikTok](https://www.tiktok.com/@smartmultas)

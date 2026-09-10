@@ -1,0 +1,571 @@
+{
+  "title": "Recurso de Multa Online com IA | Smart Multas",
+  "meta": {
+    "viewport": "width=device-width, initial-scale=1",
+    "theme-color": "#1E293B",
+    "description": "Cancele sua multa de trânsito em minutos com a Smart Multas. Petição com IA, opção de documentos ou protocolo com advogado. Pagamento 100% seguro via Mercado Pago (PIX e Cartão)."
+  },
+  "ld": [
+    "\n            {\n              \"@context\": \"https://schema.org\",\n              \"@type\": \"WebApplication\",\n              \"name\": \"Smart Multas\",\n              \"url\": \"https://smartmultas.com.br/\",\n              \"applicationCategory\": \"LegalService\",\n              \"operatingSystem\": \"Web\",\n              \"description\": \"Recurso de multas de trânsito online com Inteligência Artificial baseada no Código de Trânsito Brasileiro e resoluções do CONTRAN.\"\n            }\n          "
+  ],
+  "headings": [
+    "H5: Smart Multas IA",
+    "H1: Cancele sua multa em minutos.",
+    "H6: Sem advogado. Sem pagar a multa antes. Petição pronta para recorrer.",
+    "H5: Já sabe o código da multa?",
+    "H2: Por que milhares de multas são anuladas?",
+    "H3: Notificação após 30 dias",
+    "H3: Radar sem Aferição Anual",
+    "H3: Conversão em Advertência",
+    "H3: Erros Formais & Sinalização",
+    "H2: Como funciona o processo?",
+    "H3: 1. Envie a Foto ou Código",
+    "H3: 2. Perguntas Rápidas",
+    "H3: 3. Cruzamento Legal",
+    "H3: 4. Baixe seu PDF Pronto",
+    "H2: Por que recorrer com a Smart Multas?",
+    "H2: Escolha a melhor opção para você",
+    "H3: Petição",
+    "H3: Petição + documentos",
+    "H3: Protocolo e acompanhamento",
+    "H2: Ganhe recompensa no PIX por amigo indicado",
+    "H3: 1. Compartilhe seu link",
+    "H3: 2. Seu amigo recorre",
+    "H3: 3. Receba no PIX",
+    "H2: Perguntas Frequentes",
+    "H3: Preciso pagar a multa para entrar com o recurso?",
+    "H3: Preciso pagar a multa para entrar com o recurso?",
+    "H3: Quanto custa e como funciona o pagamento?",
+    "H3: Quanto custa e como funciona o pagamento?",
+    "H3: Preciso contratar um advogado para recorrer?",
+    "H3: Preciso contratar um advogado para recorrer?",
+    "H3: Em quanto tempo o PDF do recurso fica pronto?",
+    "H3: Em quanto tempo o PDF do recurso fica pronto?",
+    "H3: O que faço após baixar a petição em PDF?",
+    "H3: O que faço após baixar a petição em PDF?",
+    "H3: Existe garantia de reembolso?",
+    "H3: Existe garantia de reembolso?",
+    "H2: Não aceite pagar uma multa sem recorrer.",
+    "H6: Legislação Atualizada",
+    "H6: Inteligência Artificial",
+    "H6: Pagamento Seguro",
+    "H6: Direito de Defesa",
+    "H5: Smart Multas",
+    "H6: Recursos & Multas",
+    "H6: Para Profissionais",
+    "H6: Atendimento Oficial"
+  ],
+  "links": [
+    {
+      "text": "Smart Multas IA Defesa e Recursos de Trânsito",
+      "href": "/"
+    },
+    {
+      "text": "Tipos de Multas",
+      "href": "/multas"
+    },
+    {
+      "text": "Ranking",
+      "href": "/ranking-multas"
+    },
+    {
+      "text": "Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Recorrer Multa",
+      "href": "/define-violation"
+    },
+    {
+      "text": "Quero Participar e Indicar",
+      "href": "/indique"
+    },
+    {
+      "text": "Ver central de ajuda completa",
+      "href": "/faq"
+    },
+    {
+      "text": "Tipos de Multas (CTB)",
+      "href": "/multas"
+    },
+    {
+      "text": "Ranking de Infrações",
+      "href": "/ranking-multas"
+    },
+    {
+      "text": "Blog de Trânsito",
+      "href": "/blog"
+    },
+    {
+      "text": "Recorrer Minha Multa",
+      "href": "/define-violation"
+    },
+    {
+      "text": "Indique e Ganhe",
+      "href": "/indique"
+    },
+    {
+      "text": "Smart Multas Pro (Despachantes)",
+      "href": "/despachantes"
+    },
+    {
+      "text": "Painel para Advogados",
+      "href": "/advogados"
+    },
+    {
+      "text": "Proteção Veicular & APVs",
+      "href": "/protecao-veicular"
+    },
+    {
+      "text": "API B2B para Frotas",
+      "href": "/api-b2b"
+    },
+    {
+      "text": "Perguntas Frequentes (FAQ)",
+      "href": "/faq"
+    },
+    {
+      "text": "WhatsApp: (31) 2181-2033",
+      "href": "https://wa.me/553121812033?text=Ol%C3%A1!%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida%20sobre%20o%20Smart%20Multas."
+    },
+    {
+      "text": "",
+      "href": "https://wa.me/553121812033?text=Ol%C3%A1!%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida%20sobre%20o%20Smart%20Multas."
+    },
+    {
+      "text": "",
+      "href": "https://www.instagram.com/smartmultas.ia"
+    },
+    {
+      "text": "",
+      "href": "https://youtube.com/@smartmultas9896?si=nbMF_Ibb_4cWUeXy"
+    },
+    {
+      "text": "",
+      "href": "https://www.facebook.com/smartmultas"
+    },
+    {
+      "text": "",
+      "href": "https://www.tiktok.com/@smartmultas"
+    },
+    {
+      "text": "Novamente Software",
+      "href": "https://novamentesoftware.com/"
+    },
+    {
+      "text": "",
+      "href": "https://wa.me/553121812033?text=Ol%C3%A1!%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida%20sobre%20o%20Smart%20Multas."
+    }
+  ],
+  "buttons": [
+    "Entrar",
+    "Recorrer agora",
+    "Analisar",
+    "Chance de cancelamento",
+    "Ver como funciona (1 min)",
+    "Verificar Brechas na Minha Multa",
+    "Economizar Agora",
+    "Criar petição",
+    "Criar com documentos",
+    "Contratar acompanhamento",
+    "Preciso pagar a multa para entrar com o recurso?",
+    "Quanto custa e como funciona o pagamento?",
+    "Preciso contratar um advogado para recorrer?",
+    "Em quanto tempo o PDF do recurso fica pronto?",
+    "O que faço após baixar a petição em PDF?",
+    "Existe garantia de reembolso?",
+    "Gerar Meu Recurso Agora"
+  ],
+  "images": [
+    {
+      "src": "https://smartmultas.com.br/logomultas.webp",
+      "alt": "Smart Multas Logo",
+      "w": 192,
+      "h": 192
+    },
+    {
+      "src": "https://smartmultas.com.br/logomultas.webp",
+      "alt": "Smart Multas Logo",
+      "w": 192,
+      "h": 192
+    }
+  ],
+  "text": "Smart Multas\nIA\nDefesa e Recursos de Trânsito\nTipos de Multas\nRanking\nBlog\nEntrar\nRecorrer Multa\nCancele sua multa em minutos.\nSem advogado. Sem pagar a multa antes. Petição pronta para recorrer.\nRecorrer agora\n\n4.9/5\n\n+15.000 recursos\n\nRecurso Administrativo\n\nPadrão JARI / DETRAN / PRF\nFundamentado\nDESTINATÁRIO:\n\nILMO. SR. DIRETOR PRESIDENTE DA JARI DO ÓRGÃO AUTUADOR\n\nTESES JURÍDICAS APLICADAS PELA IA:\n\nArt. 281, II do CTB (Decadência / 30 dias)\n\nNulidade\n\nResolução CONTRAN nº 798 (Aferição Radar)\n\nTécnico\n\nArt. 267 do CTB (Conversão em Advertência)\n\nSem Multa\nPDF A4 pronto para assinatura e protocolo\nPetição\nIA Treinada no CTB\nPronto em 3 minutos\nLiberação via PIX\n\n+15.000\n\nRecursos Elaborados\n\nCondutores defendidos\n\n4.9 / 5.0\n\nAvaliação Média\n\nBaseada em avaliações reais\n\n100%\n\nConforme CTB & CONTRAN\n\nLegislação atualizada\n\n27 Estados\n\nCobertura Nacional\n\nDETRAN, PRF, DNIT & Municípios\nVÁLIDO PARA RECURSOS EM TODOS OS ÓRGÃOS AUTUADORES DO BRASIL:\n\nDETRANs Estaduais\n\nPolícia Rodoviária Federal (PRF)\n\nDNIT\n\nCET / DSV\n\nDER\n\nJá sabe o código da multa?\n\nBusque, escolha um caso frequente ou veja sua chance de cancelamento.\n\nAnalisar\n⚡ Velocidade (7455)\n🚦 Sinal Vermelho (6050)\n📱 Celular ao Volante (7633)\n🍺 Lei Seca (165)\n🅿️ Estacionamento\n🔍 Outro\nChance de cancelamento\nVer como funciona (1 min)\nFUNDAMENTAÇÃO LEGAL DO BRASIL\nPor que milhares de multas são anuladas?\n\nA legislação de trânsito brasileira impõe regras rígidas aos órgãos fiscalizadores. Nossa Inteligência Artificial investiga brechas legais e erros de procedimento na sua autuação.\n\nArt. 281, II do CTB\nNotificação após 30 dias\n\nSe o órgão autuador demorar mais de 30 dias da data da infração para emitir a Notificação de Autuação, o CTB determina a NULIDADE e o arquivamento imediato do auto.\n\n✓ ANULAÇÃO OBRIGATÓRIA POR LEI\nResolução CONTRAN 798/20\nRadar sem Aferição Anual\n\nRadares fixos e portáteis de velocidade precisam de laudo de calibração do INMETRO válido nos últimos 12 meses. Sem isso, a medição é judicialmente nula.\n\n✓ CANCELAMENTO DA MULTA DE VELOCIDADE\nArt. 267 do CTB\nConversão em Advertência\n\nInfrações leves ou médias cometidas por condutores que não cometeram a mesma falta nos últimos 12 meses têm direito à conversão da multa em advertência por escrito.\n\n✓ ZERO REAIS E ZERO PONTOS NA CNH\nArt. 280 do CTB\nErros Formais & Sinalização\n\nLocal impreciso, foto ilegível, falta de sinalização regulamentar (R-19) ou ausência de dados obrigatórios do agente autuador invalidam o procedimento.\n\n✓ INCONSISTÊNCIA INSANÁVEL DO AUTO\nVerificar Brechas na Minha Multa\n⚡ SIMPLES, RÁPIDO E 100% ONLINE\nComo funciona o processo?\n\nDo recebimento da autuação até o recurso formal pronto para envio em apenas 4 etapas.\n\nOCR Inteligente\n1. Envie a Foto ou Código\n\nFaça upload da notificação para leitura automática por IA ou digite o código da infração.\n\nAnálise Personalizada\n2. Perguntas Rápidas\n\nResponda algumas perguntas objetivas para nossa IA identificar brechas no procedimento do agente.\n\nFundamentação Jurídica\n3. Cruzamento Legal\n\nA IA cruza o CTB, resoluções do CONTRAN, prazos do Art. 281 e jurisprudências dos tribunais.\n\nLiberação Imediata\n4. Baixe seu PDF Pronto\n\nPague com segurança via Mercado Pago (PIX instantâneo) e baixe a petição completa para protocolar.\n\n💰 ECONOMIA & EFICIÊNCIA\nPor que recorrer com a Smart Multas?\n\nVeja como nossa plataforma com inteligência artificial se compara às alternativas tradicionais.\n\nComparativo\tPagar a Multa\tDespachante / Advogado\t\nSmart Multas IA\n\nCusto Médio\t\nValor integral da multa\n\t\nHonorários elevados\n\t\nFração do custo de um advogado\n\nPontuação na CNH\t\nAté 7 pontos (risco de suspensão)\n\t\nPode evitar\n\t\nDefesa para anular pontos\n\nTempo para Elaboração\t\nImediato (Prejuízo total)\n\t\n5 a 15 dias úteis\n\t\n3 minutos (IA Instantânea)\n\nObriga pagar multa antes?\t\nSIM (Paga 100% da multa)\n\t\nNÃO (Art. 284/286 CTB)\n\t\nNÃO (Art. 284/286 CTB)\n\nLeitura de Foto/OCR da Multa\t\nNão aplicável\n\t\nManual (você leva cópias)\n\t\nAutomático por IA\n\nGarantia de Devolução (CDC)\t\nNenhuma garantia\n\t\nGeralmente não há\n\t\n7 dias incondicional\nEconomizar Agora\n💳 ESCOLHA SEU PLANO\nEscolha a melhor opção para você\n\nPague com total segurança pelo Mercado Pago. Liberação imediata do seu documento via PIX ou Cartão de Crédito.\n\nPetição\n\nPDF pronto para você protocolar\n\nPAGAMENTO ÚNICO\n\nUma petição completa\n\nRecurso personalizado completo em PDF\n\nFundamentação legal com CTB e CONTRAN\n\nAnálise e perguntas guiadas por IA\n\nInstruções passo a passo de protocolo\n\nLiberação imediata no PIX ou Cartão\n\nCriar petição\nPetição + documentos\n\nExames e laudos entram na defesa\n\nIA COM SEUS ANEXOS\n\nPetição reforçada\n\nTudo da petição padrão\n\nAnexe exames, laudos e comprovantes\n\nA IA considera esses documentos na petição\n\nPDF atualizado após o envio dos arquivos\n\nVocê protocola no órgão\n\nCriar com documentos\nMAIS COMPLETO\nProtocolo e acompanhamento\n\nNós protocolamos. Um advogado acompanha.\n\nSERVIÇO COMPLETO\n\nDo PDF ao protocolo\n\nPetição gerada e documentos considerados\n\nProtocolamos o recurso no órgão\n\nAdvogado acompanha o andamento\n\nVocê vê o status na plataforma\n\nSem precisar protocolar por conta própria\n\nContratar acompanhamento\n\nMercado Pago Oficial\n\nCheckout com criptografia SSL 256-bit e conformidade PCI-DSS.\n\nLiberação Instantânea\n\nAprovação no PIX ou Cartão com download imediato do PDF.\n\nGarantia de 7 Dias\n\nDireito de arrependimento com reembolso integral garantido pelo CDC.\nPROGRAMA DE INDICAÇÃO\nGanhe recompensa no PIX por amigo indicado\n\nConhece alguém que tomou multa de trânsito ou trabalha como motorista de aplicativo? Indique a Smart Multas e receba uma recompensa no PIX a cada recurso gerado.\n\n1. Compartilhe seu link\nCadastre-se e pegue seu link exclusivo.\n2. Seu amigo recorre\nSeu amigo gera a petição com IA.\n3. Receba no PIX\nRecompensa direta na sua carteira a cada recurso.\nQuero Participar e Indicar\n\nRecompensa\n\npor cada recurso concluído\n\nSaque via PIX sem burocracia\nTIRE SUAS DÚVIDAS\nPerguntas Frequentes\n\nTudo o que você precisa saber sobre o recurso de multas com inteligência artificial.\n\nPreciso pagar a multa para entrar com o recurso?\n\nNÃO! Conforme determinam expressamente os artigos 284 e 286 do Código de Trânsito Brasileiro (CTB), o condutor tem o direito constitucional de apresentar Defesa Prévia e Recurso à JARI sem a necessidade de pagamento prévio da penalidade.\n\nQuanto custa e como funciona o pagamento?\nPreciso contratar um advogado para recorrer?\nEm quanto tempo o PDF do recurso fica pronto?\nO que faço após baixar a petição em PDF?\nExiste garantia de reembolso?\n\nAinda tem dúvidas ou quer saber mais sobre o processo?\n\nVer central de ajuda completa\nNão aceite pagar uma multa sem recorrer.\n\nPetição com IA, opção de documentos ou protocolo com advogado. Gere seu recurso agora mesmo.\n\nGerar Meu Recurso Agora\nLegislação Atualizada\nEmbasado no CTB e CONTRAN 2026\nInteligência Artificial\nAnálise técnica de falhas formais\nPagamento Seguro\nCriptografia SSL via Mercado Pago\nDireito de Defesa\nGarantido pelo Art. 5º da CF/88\nSmart Multas\nINTELIGÊNCIA EM DIREITO DE TRÂNSITO\n\nA tecnologia pioneira para motoristas recorrerem de multas indevidas de forma rápida, eficiente e acessível. Analisamos sua autuação e geramos a petição pronta para protocolo.\n\nFORMAS DE PAGAMENTO ACEITAS\nPIX Instantâneo\nCartão de Crédito\nMercado Pago\nRecursos & Multas\nTipos de Multas (CTB)\nRanking de Infrações\nBlog de Trânsito\nRecorrer Minha Multa\nIndique e Ganhe\nPara Profissionais\nSmart Multas Pro (Despachantes)\nPainel para Advogados\nProteção Veicular & APVs\nAPI B2B para Frotas\nPerguntas Frequentes (FAQ)\nAtendimento Oficial\nWhatsApp: (31) 2181-2033\nAtendimento de Segunda a Sexta, das 09h às 18h\nAviso Legal: A Smart Multas é uma plataforma tecnológica de inteligência artificial aplicada ao Direito de Trânsito que auxilia o cidadão a exercer seu direito constitucional de ampla defesa. Não substituímos a assessoria jurídica individualizada de um advogado devidamente inscrito na OAB.\n© 2026 Smart Multas Tecnologia. Todos os direitos reservados.\nDesenvolvido pela Novamente Software",
+  "styles": {
+    "body": {
+      "bg": "rgb(248, 250, 252)",
+      "color": "rgb(51, 65, 85)",
+      "font": "Inter, Roboto, Helvetica, Arial, sans-serif"
+    },
+    "bg": [
+      [
+        "rgb(255, 255, 255)",
+        36
+      ],
+      [
+        "rgb(248, 250, 252)",
+        15
+      ],
+      [
+        "rgb(30, 41, 59)",
+        7
+      ],
+      [
+        "rgba(16, 185, 129, 0.05)",
+        6
+      ],
+      [
+        "rgb(16, 185, 129)",
+        5
+      ],
+      [
+        "rgba(255, 255, 255, 0.06)",
+        5
+      ],
+      [
+        "rgb(236, 253, 245)",
+        4
+      ],
+      [
+        "rgba(59, 130, 246, 0.1)",
+        4
+      ],
+      [
+        "rgba(16, 185, 129, 0.12)",
+        3
+      ],
+      [
+        "rgb(239, 246, 255)",
+        3
+      ],
+      [
+        "rgb(254, 243, 199)",
+        3
+      ],
+      [
+        "rgba(16, 185, 129, 0.1)",
+        3
+      ],
+      [
+        "rgb(245, 243, 255)",
+        2
+      ],
+      [
+        "rgb(5, 150, 105)",
+        2
+      ],
+      [
+        "rgb(217, 119, 6)",
+        2
+      ],
+      [
+        "rgb(37, 211, 102)",
+        2
+      ],
+      [
+        "rgba(255, 255, 255, 0.94)",
+        1
+      ],
+      [
+        "rgba(37, 99, 235, 0.1)",
+        1
+      ],
+      [
+        "rgb(37, 99, 235)",
+        1
+      ],
+      [
+        "rgba(15, 23, 42, 0.04)",
+        1
+      ],
+      [
+        "radial-gradient(circle, rgba(16, 185, 129, 0.09) 0%, rgba(255, 255, 255, 0) 70%)",
+        1
+      ],
+      [
+        "radial-gradient(circle, rgba(59, 130, 246, 0.06) 0%, rgba(255, 255, 255, 0) 70%)",
+        1
+      ],
+      [
+        "rgb(189, 189, 189)",
+        1
+      ],
+      [
+        "radial-gradient(circle, rgba(16, 185, 129, 0.15) 0%, rgba(59, 130, 246, 0.08) 50%, rgba(255, 255, 255, 0) 70%)",
+        1
+      ],
+      [
+        "rgb(209, 250, 229)",
+        1
+      ],
+      [
+        "rgb(219, 234, 254)",
+        1
+      ],
+      [
+        "rgb(253, 230, 138)",
+        1
+      ],
+      [
+        "rgba(30, 41, 59, 0.08)",
+        1
+      ],
+      [
+        "rgba(2, 132, 199, 0.12)",
+        1
+      ],
+      [
+        "rgba(16, 185, 129, 0.02)",
+        1
+      ]
+    ],
+    "fg": [
+      [
+        "rgb(71, 85, 105)",
+        69
+      ],
+      [
+        "rgb(15, 23, 42)",
+        66
+      ],
+      [
+        "rgb(148, 163, 184)",
+        16
+      ],
+      [
+        "rgb(255, 255, 255)",
+        15
+      ],
+      [
+        "rgb(4, 120, 87)",
+        13
+      ],
+      [
+        "rgb(5, 150, 105)",
+        5
+      ],
+      [
+        "rgb(37, 99, 235)",
+        4
+      ],
+      [
+        "rgb(100, 116, 139)",
+        4
+      ],
+      [
+        "rgb(29, 78, 216)",
+        4
+      ],
+      [
+        "rgb(180, 83, 9)",
+        3
+      ],
+      [
+        "rgb(56, 189, 248)",
+        3
+      ],
+      [
+        "rgb(51, 65, 85)",
+        2
+      ],
+      [
+        "rgb(109, 40, 217)",
+        2
+      ],
+      [
+        "rgb(30, 41, 59)",
+        2
+      ],
+      [
+        "rgb(34, 197, 94)",
+        1
+      ],
+      [
+        "rgb(203, 213, 225)",
+        1
+      ]
+    ],
+    "fonts": [
+      [
+        "Inter, Roboto, Helvetica, Arial, sans-serif",
+        210
+      ]
+    ],
+    "sizes": [
+      [
+        "12px/400",
+        18
+      ],
+      [
+        "14px/700",
+        17
+      ],
+      [
+        "12px/700",
+        17
+      ],
+      [
+        "14px/600",
+        15
+      ],
+      [
+        "20px/800",
+        15
+      ],
+      [
+        "14px/400",
+        13
+      ],
+      [
+        "14.4px/400",
+        12
+      ],
+      [
+        "14px/800",
+        10
+      ],
+      [
+        "14px/500",
+        10
+      ],
+      [
+        "14.16px/400",
+        10
+      ],
+      [
+        "15.2px/700",
+        8
+      ],
+      [
+        "12px/800",
+        7
+      ],
+      [
+        "13.6px/600",
+        6
+      ],
+      [
+        "17.6px/700",
+        6
+      ],
+      [
+        "28px/900",
+        5
+      ],
+      [
+        "44px/800",
+        5
+      ],
+      [
+        "18px/500",
+        5
+      ],
+      [
+        "10.4px/800",
+        4
+      ],
+      [
+        "11.2px/700",
+        4
+      ],
+      [
+        "16px/400",
+        3
+      ],
+      [
+        "16px/700",
+        3
+      ],
+      [
+        "13.6px/700",
+        2
+      ],
+      [
+        "10.88px/600",
+        1
+      ],
+      [
+        "14.8px/800",
+        1
+      ],
+      [
+        "61.6px/900",
+        1
+      ]
+    ],
+    "radii": [
+      [
+        "16px",
+        29
+      ],
+      [
+        "36px",
+        16
+      ],
+      [
+        "48px",
+        15
+      ],
+      [
+        "50%",
+        14
+      ],
+      [
+        "50px",
+        14
+      ],
+      [
+        "30px",
+        13
+      ],
+      [
+        "24px",
+        5
+      ],
+      [
+        "40px",
+        1
+      ],
+      [
+        "20px",
+        1
+      ],
+      [
+        "60px",
+        1
+      ],
+      [
+        "8px",
+        1
+      ]
+    ],
+    "headings": [
+      "H1 61.6px 900 Inter, Roboto, Helvetica, Arial, sans-se rgb(15, 23, 42) lh=66.528px ls=-1.848px",
+      "H2 44px 800 Inter, Roboto, Helvetica, Arial, sans-se rgb(15, 23, 42) lh=52.8px ls=-0.88px",
+      "H3 20px 800 Inter, Roboto, Helvetica, Arial, sans-se rgb(15, 23, 42) lh=28px ls=normal",
+      "H3 20px 800 Inter, Roboto, Helvetica, Arial, sans-se rgb(15, 23, 42) lh=28px ls=normal",
+      "H3 20px 800 Inter, Roboto, Helvetica, Arial, sans-se rgb(15, 23, 42) lh=28px ls=normal",
+      "H3 20px 800 Inter, Roboto, Helvetica, Arial, sans-se rgb(15, 23, 42) lh=28px ls=normal",
+      "H2 44px 800 Inter, Roboto, Helvetica, Arial, sans-se rgb(15, 23, 42) lh=52.8px ls=-0.88px",
+      "H3 20px 800 Inter, Roboto, Helvetica, Arial, sans-se rgb(15, 23, 42) lh=28px ls=normal",
+      "H3 20px 800 Inter, Roboto, Helvetica, Arial, sans-se rgb(15, 23, 42) lh=28px ls=normal",
+      "H3 20px 800 Inter, Roboto, Helvetica, Arial, sans-se rgb(15, 23, 42) lh=28px ls=normal",
+      "H3 20px 800 Inter, Roboto, Helvetica, Arial, sans-se rgb(15, 23, 42) lh=28px ls=normal",
+      "H2 44px 800 Inter, Roboto, Helvetica, Arial, sans-se rgb(15, 23, 42) lh=52.8px ls=-0.88px"
+    ],
+    "buttons": [
+      "Entrar | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(51, 65, 85) r=30px fs=14.4px fw=600 pad=8px 16px sh=none",
+      " | bg=rgba(15, 23, 42, 0.04) bgi=none color=rgb(15, 23, 42) r=24px fs=24px fw=400 pad=8px sh=none",
+      "Recorrer agora | bg=rgb(16, 185, 129) bgi=none color=rgb(255, 255, 255) r=50px fs=20.8px fw=900 pad=17.2px 48px sh=rgba(16, 185, 129, 0.45) 0px 14px 32px 0px",
+      "Analisar | bg=rgb(16, 185, 129) bgi=none color=rgb(255, 255, 255) r=40px fs=15.2px fw=800 pad=8.8px 28px sh=none",
+      "Chance de cancelamento | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(5, 150, 105) r=50px fs=16px fw=700 pad=9.6px 24px sh=none",
+      "Ver como funciona (1 min) | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(51, 65, 85) r=50px fs=16px fw=700 pad=9.6px 24px sh=none",
+      "Verificar Brechas na Minha Mul | bg=rgb(30, 41, 59) bgi=none color=rgb(255, 255, 255) r=50px fs=16.8px fw=700 pad=14.4px 32px sh=none",
+      "Economizar Agora | bg=rgb(16, 185, 129) bgi=none color=rgb(255, 255, 255) r=50px fs=17.6px fw=800 pad=16px 40px sh=rgba(16, 185, 129, 0.3) 0px 8px 20px 0px",
+      "Criar petição | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(30, 41, 59) r=36px fs=16px fw=700 pad=12.8px 24px sh=none",
+      "Criar com documentos | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(37, 99, 235) r=36px fs=16px fw=700 pad=12.8px 24px sh=none",
+      "Contratar acompanhamento | bg=rgb(16, 185, 129) bgi=none color=rgb(255, 255, 255) r=36px fs=16px fw=700 pad=12.8px 24px sh=rgba(16, 185, 129, 0.3) 0px 8px 20px 0px",
+      "Preciso pagar a multa para ent | bg=rgba(30, 41, 59, 0.03) bgi=none color=rgb(15, 23, 42) r=0px fs=13.3333px fw=400 pad=12px 28px sh=none"
+    ]
+  }
+}

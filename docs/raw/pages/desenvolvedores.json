@@ -1,0 +1,540 @@
+{
+  "title": "Smart Multas",
+  "meta": {
+    "viewport": "width=device-width, initial-scale=1",
+    "theme-color": "#1E293B",
+    "description": "Smart Multas - Recurso de Multa de Trânsito Online com Inteligência Artificial. Petição com IA, documentos ou protocolo com advogado. Pagamento seguro via Mercado Pago."
+  },
+  "ld": [],
+  "headings": [
+    "H5: Smart Multas IA",
+    "H2: Ofereça Recursos de Multas via API no seu Sistema ou Aplicativo",
+    "H6: Envie o código da infração, receba as perguntas dinâmicas e gere petições jurídicas completas em PDF prontas para protocolo em segundos. Sem contratos fixos, com recarga pré-paga via PIX e Cartão.",
+    "H3: Feito para empresas que precisam de escala e precisão jurídica",
+    "H4: Automatize recursos para centenas ou milhares de veículos",
+    "H6: ❌ DORES QUE RESOLVEMOS:",
+    "H6: ✅ O QUE A NOSSA API ENTREGA:",
+    "H6: Motor Jurídico Especializado",
+    "H3: Como a integração funciona na prática",
+    "H3: 01",
+    "H6: POST /fines/lookup",
+    "H6: Envie o Código da Multa",
+    "H3: 02",
+    "H6: POST /petitions/analyze",
+    "H6: Devolva as Respostas",
+    "H3: 03",
+    "H6: POST /petitions/generate",
+    "H6: Gere o PDF Final",
+    "H3: Simule a economia da sua operação",
+    "H6: ECONOMIA ESTIMADA PARA SUA EMPRESA",
+    "H3: R$ 165.000,00",
+    "H3: Perguntas Frequentes sobre a API B2B",
+    "H3: Como funciona a cobrança e recarga de créditos?",
+    "H3: As petições geradas são aceitas oficialmente pelos órgãos de trânsito?",
+    "H3: Posso testar a API gratuitamente antes de contratar?",
+    "H3: Vocês oferecem tabela de preços personalizada para alto volume?",
+    "H3: Quais linguagens e frameworks são suportados?",
+    "H3: Pronto para integrar a melhor IA jurídica de trânsito no seu negócio?",
+    "H6: Legislação Atualizada",
+    "H6: Inteligência Artificial",
+    "H6: Pagamento Seguro",
+    "H6: Direito de Defesa",
+    "H5: Smart Multas",
+    "H6: Recursos & Multas",
+    "H6: Para Profissionais",
+    "H6: Atendimento Oficial"
+  ],
+  "links": [
+    {
+      "text": "Smart Multas IA Defesa e Recursos de Trânsito",
+      "href": "/"
+    },
+    {
+      "text": "Tipos de Multas",
+      "href": "/multas"
+    },
+    {
+      "text": "Ranking",
+      "href": "/ranking-multas"
+    },
+    {
+      "text": "Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Recorrer Multa",
+      "href": "/define-violation"
+    },
+    {
+      "text": "Smart Multas B2B API & SDK",
+      "href": "/api-b2b"
+    },
+    {
+      "text": "Portal do Parceiro",
+      "href": "/b2b/login"
+    },
+    {
+      "text": "Falar com Especialista",
+      "href": "https://wa.me/5511999999999?text=Ol%C3%A1%21+Gostaria+de+saber+mais+sobre+a+API+B2B+da+Smart+Multas"
+    },
+    {
+      "text": "Acessar Portal do Desenvolvedor",
+      "href": "/b2b/login"
+    },
+    {
+      "text": "Tipos de Multas (CTB)",
+      "href": "/multas"
+    },
+    {
+      "text": "Ranking de Infrações",
+      "href": "/ranking-multas"
+    },
+    {
+      "text": "Blog de Trânsito",
+      "href": "/blog"
+    },
+    {
+      "text": "Recorrer Minha Multa",
+      "href": "/define-violation"
+    },
+    {
+      "text": "Indique e Ganhe",
+      "href": "/indique"
+    },
+    {
+      "text": "Smart Multas Pro (Despachantes)",
+      "href": "/despachantes"
+    },
+    {
+      "text": "Painel para Advogados",
+      "href": "/advogados"
+    },
+    {
+      "text": "Proteção Veicular & APVs",
+      "href": "/protecao-veicular"
+    },
+    {
+      "text": "API B2B para Frotas",
+      "href": "/api-b2b"
+    },
+    {
+      "text": "Perguntas Frequentes (FAQ)",
+      "href": "/faq"
+    },
+    {
+      "text": "WhatsApp: (31) 2181-2033",
+      "href": "https://wa.me/553121812033?text=Ol%C3%A1!%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida%20sobre%20o%20Smart%20Multas."
+    },
+    {
+      "text": "",
+      "href": "https://wa.me/553121812033?text=Ol%C3%A1!%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida%20sobre%20o%20Smart%20Multas."
+    },
+    {
+      "text": "",
+      "href": "https://www.instagram.com/smartmultas.ia"
+    },
+    {
+      "text": "",
+      "href": "https://youtube.com/@smartmultas9896?si=nbMF_Ibb_4cWUeXy"
+    },
+    {
+      "text": "",
+      "href": "https://www.facebook.com/smartmultas"
+    },
+    {
+      "text": "",
+      "href": "https://www.tiktok.com/@smartmultas"
+    },
+    {
+      "text": "Novamente Software",
+      "href": "https://novamentesoftware.com/"
+    },
+    {
+      "text": "",
+      "href": "https://wa.me/553121812033?text=Ol%C3%A1!%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida%20sobre%20o%20Smart%20Multas."
+    }
+  ],
+  "buttons": [
+    "Entrar",
+    "Criar Conta B2B",
+    "Começar Integração Grátis",
+    "CURL",
+    "JSON RETURN",
+    "NODE",
+    "PYTHON",
+    "Copiar",
+    "Frotas & Locadoras",
+    "Despachantes & Assessorias",
+    "Apps de Mobilidade & Logtechs",
+    "Seguradoras & Proteção Veicular",
+    "Desenvolvedores & SaaS",
+    "Automatizar Frota via API",
+    "Criar Conta e Começar a Economizar",
+    "Como funciona a cobrança e recarga de créditos?",
+    "As petições geradas são aceitas oficialmente pelos órgãos de trânsito?",
+    "Posso testar a API gratuitamente antes de contratar?",
+    "Vocês oferecem tabela de preços personalizada para alto volume?",
+    "Quais linguagens e frameworks são suportados?",
+    "Cadastrar Empresa Parceira"
+  ],
+  "images": [
+    {
+      "src": "https://smartmultas.com.br/logomultas.webp",
+      "alt": "Smart Multas Logo",
+      "w": 192,
+      "h": 192
+    },
+    {
+      "src": "https://smartmultas.com.br/logomultas.webp",
+      "alt": "Smart Multas Logo",
+      "w": 192,
+      "h": 192
+    }
+  ],
+  "text": "Smart Multas\nIA\nDefesa e Recursos de Trânsito\nTipos de Multas\nRanking\nBlog\nEntrar\nRecorrer Multa\nSmart Multas\nB2B API & SDK\nPortal do Parceiro\nCriar Conta B2B\nAPI RESTful de Defesa de Multas com IA Jurídica\nOfereça Recursos de Multas via API no seu Sistema ou Aplicativo\nEnvie o código da infração, receba as perguntas dinâmicas e gere petições jurídicas completas em PDF prontas para protocolo em segundos. Sem contratos fixos, com recarga pré-paga via PIX e Cartão.\nComeçar Integração Grátis\nFalar com Especialista\nAmbiente Sandbox\nDocumentação Swagger\nRecarga Instantânea no PIX\nCURL\nJSON RETURN\nNODE\nPYTHON\nCopiar\n# 1. Consultar perguntas do código da multa\ncurl -X POST https://api.smartmultas.com.br/api/v1/partner/fines/lookup \\\n  -H \"Authorization: Bearer sk_live_SUA_API_KEY\" \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\"fine_code\": \"745-5\"}'\n\n# 2. Gerar Petição Pronta em PDF (One-Shot)\ncurl -X POST https://api.smartmultas.com.br/api/v1/partner/petitions/direct \\\n  -H \"Authorization: Bearer sk_live_SUA_API_KEY\" \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\n    \"fine_code\": \"745-5\",\n    \"ticket_code\": \"AB01234567\",\n    \"driver\": {\n      \"first_name\": \"Carlos\",\n      \"last_name\": \"Eduardo Silva\",\n      \"cpf\": \"123.456.789-00\"\n    },\n    \"vehicle\": {\n      \"plate\": \"ABC1D23\",\n      \"model\": \"Toyota Corolla\"\n    }\n  }'\nStatus: 200 OK (280ms)\nContent-Type: application/json\nPÚBLICOS-ALVO & CASOS DE USO\nFeito para empresas que precisam de escala e precisão jurídica\n\nSeja para resolver gargalos operacionais de frotas ou para oferecer um produto inovador in-app aos seus clientes, nossa API se adapta ao seu modelo de negócio.\n\nFrotas & Locadoras\nDespachantes & Assessorias\nApps de Mobilidade & Logtechs\nSeguradoras & Proteção Veicular\nDesenvolvedores & SaaS\nRedução de Custos em Escala\nAutomatize recursos para centenas ou milhares de veículos\n\nIdeal para locadoras, transportadoras, frotas corporativas e empresas de locação de veículos.\n\n❌ DORES QUE RESOLVEMOS:\nVolume enorme de notificações de autuação que vencem por falta de tempo\nCobrança indevida de clientes e custos pesados com despachantes terceirizados\nDificuldade de apontar o Real Condutor (FICI) no prazo legal de 30 dias\n✅ O QUE A NOSSA API ENTREGA:\nGeração de petições personalizadas em lote com um simples comando de API\nChecagem automática de nulidade por decadência dos 30 dias (Art. 281 do CTB)\nEconomia de até 85% no custo por recurso processado\nFormatado para protocolo direto em órgãos municipais, DETRAN, PRF e DNIT\nAutomatizar Frota via API\nMotor Jurídico Especializado\n\nNosso algoritmo analisa automaticamente variáveis como velocidade aferida x limite, data de aferição do INMETRO, dupla notificação de pessoa jurídica (Tema 1.097 STJ), decadência de 30 dias e conversão em advertência por escrito.\n\nTaxa de assertividade formal:\n\n98.7%\n\nTempo médio de resposta:\n\n< 300 ms\n\nFormato de entrega:\n\nPDF A4 + JSON\n\nARQUITETURA SIMPLES & PODEROSA\nComo a integração funciona na prática\n\nEm apenas 3 chamadas HTTP REST, sua plataforma transforma um código de infração em uma defesa jurídica perfeita pronta para protocolo.\n\n01\nLookup & Perguntas\nPOST /fines/lookup\nEnvie o Código da Multa\n\nO parceiro envia o código do CTB (ex: 745-5 ou 500-2). A API retorna o enquadramento, pontos, gravidade e as perguntas dinâmicas cabíveis para aquela infração.\n\n💡 Custo por chamada: R$ 0,50 por consulta\n02\nInteligência Jurídica\nPOST /petitions/analyze\nDevolva as Respostas\n\nEnvie as respostas selecionadas e os dados fáticos. A API processa e devolve a fundamentação jurídica completa, teses de nulidade e artigos aplicáveis.\n\n💡 Custo por chamada: R$ 1,00 por análise\n03\nPetição PDF Pronta\nPOST /petitions/generate\nGere o PDF Final\n\nEnvie os dados do condutor e veículo. A API gera o documento PDF final oficial com cabeçalho do órgão competente, fatos, fundamentos, pedidos e link seguro de download.\n\n💡 Custo por chamada: R$ 3,50 por documento\n\n⚡ Prefere tudo em uma única requisição? Utilize o endpoint POST /petitions/direct (One-Shot a R$ 5,00) e receba o PDF pronto em uma única chamada.\n\nCALCULADORA DE ECONOMIA\nSimule a economia da sua operação\n\nContratar advogados ou despachantes tradicionais para redigir recursos avulsos custa em média R$ 60 a R$ 150 por processo. Com a API Smart Multas, seu custo cai para apenas R$ 5,00 por petição emitida.\n\nVolume mensal de recursos:\n250 petições / mês\n\nECONOMIA ESTIMADA PARA SUA EMPRESA\nEconomia Anual Estimada:\nR$ 165.000,00\n\nR$ 13.750,00 economizados todos os meses\n\nCusto Tradicional (250x R$ 60):\n\nR$ 15.000,00\n\nCusto via Smart Multas API (250x R$ 5):\n\nR$ 1.250,00\n\nCriar Conta e Começar a Economizar\nDÚVIDAS FREQUENTES\nPerguntas Frequentes sobre a API B2B\n\nComo funciona a cobrança e recarga de créditos?\n\nAs petições geradas são aceitas oficialmente pelos órgãos de trânsito?\n\nPosso testar a API gratuitamente antes de contratar?\n\nVocês oferecem tabela de preços personalizada para alto volume?\n\nQuais linguagens e frameworks são suportados?\n\nPronto para integrar a melhor IA jurídica de trânsito no seu negócio?\n\nCadastre sua empresa, obtenha suas API Keys e comece a gerar recursos com alta taxa de deferimento hoje mesmo.\n\nCadastrar Empresa Parceira\nAcessar Portal do Desenvolvedor\nLegislação Atualizada\nEmbasado no CTB e CONTRAN 2026\nInteligência Artificial\nAnálise técnica de falhas formais\nPagamento Seguro\nCriptografia SSL via Mercado Pago\nDireito de Defesa\nGarantido pelo Art. 5º da CF/88\nSmart Multas\nINTELIGÊNCIA EM DIREITO DE TRÂNSITO\n\nA tecnologia pioneira para motoristas recorrerem de multas indevidas de forma rápida, eficiente e acessível. Analisamos sua autuação e geramos a petição pronta para protocolo.\n\nFORMAS DE PAGAMENTO ACEITAS\nPIX Instantâneo\nCartão de Crédito\nMercado Pago\nRecursos & Multas\nTipos de Multas (CTB)\nRanking de Infrações\nBlog de Trânsito\nRecorrer Minha Multa\nIndique e Ganhe\nPara Profissionais\nSmart Multas Pro (Despachantes)\nPainel para Advogados\nProteção Veicular & APVs\nAPI B2B para Frotas\nPerguntas Frequentes (FAQ)\nAtendimento Oficial\nWhatsApp: (31) 2181-2033\nAtendimento de Segunda a Sexta, das 09h às 18h\nAviso Legal: A Smart Multas é uma plataforma tecnológica de inteligência artificial aplicada ao Direito de Trânsito que auxilia o cidadão a exercer seu direito constitucional de ampla defesa. Não substituímos a assessoria jurídica individualizada de um advogado devidamente inscrito na OAB.\n© 2026 Smart Multas Tecnologia. Todos os direitos reservados.\nDesenvolvido pela Novamente Software",
+  "styles": {
+    "body": {
+      "bg": "rgb(248, 250, 252)",
+      "color": "rgb(51, 65, 85)",
+      "font": "Inter, Roboto, Helvetica, Arial, sans-serif"
+    },
+    "bg": [
+      [
+        "rgb(15, 23, 42)",
+        12
+      ],
+      [
+        "rgb(2, 132, 199)",
+        8
+      ],
+      [
+        "rgba(255, 255, 255, 0.06)",
+        5
+      ],
+      [
+        "rgb(2, 6, 23)",
+        3
+      ],
+      [
+        "rgb(9, 13, 22)",
+        3
+      ],
+      [
+        "rgb(11, 19, 41)",
+        3
+      ],
+      [
+        "rgba(56, 189, 248, 0.15)",
+        3
+      ],
+      [
+        "rgb(30, 41, 59)",
+        3
+      ],
+      [
+        "rgba(56, 189, 248, 0.2)",
+        2
+      ],
+      [
+        "rgba(56, 189, 248, 0.12)",
+        2
+      ],
+      [
+        "rgb(16, 185, 129)",
+        2
+      ],
+      [
+        "rgb(255, 255, 255)",
+        2
+      ],
+      [
+        "rgb(37, 211, 102)",
+        2
+      ],
+      [
+        "rgba(255, 255, 255, 0.94)",
+        1
+      ],
+      [
+        "rgba(37, 99, 235, 0.1)",
+        1
+      ],
+      [
+        "rgb(37, 99, 235)",
+        1
+      ],
+      [
+        "rgba(15, 23, 42, 0.04)",
+        1
+      ],
+      [
+        "rgba(15, 23, 42, 0.85)",
+        1
+      ],
+      [
+        "linear-gradient(135deg, rgb(255, 255, 255) 30%, rgb(147, 197, 253) 100%)",
+        1
+      ],
+      [
+        "rgb(239, 68, 68)",
+        1
+      ],
+      [
+        "rgb(245, 158, 11)",
+        1
+      ],
+      [
+        "rgba(56, 189, 248, 0.1)",
+        1
+      ],
+      [
+        "rgba(16, 185, 129, 0.15)",
+        1
+      ],
+      [
+        "rgba(15, 23, 42, 0.75)",
+        1
+      ],
+      [
+        "rgba(34, 197, 94, 0.12)",
+        1
+      ],
+      [
+        "rgba(255, 255, 255, 0.08)",
+        1
+      ]
+    ],
+    "fg": [
+      [
+        "rgb(148, 163, 184)",
+        30
+      ],
+      [
+        "rgb(56, 189, 248)",
+        20
+      ],
+      [
+        "rgb(255, 255, 255)",
+        17
+      ],
+      [
+        "rgb(100, 116, 139)",
+        12
+      ],
+      [
+        "rgb(203, 213, 225)",
+        10
+      ],
+      [
+        "rgb(51, 65, 85)",
+        7
+      ],
+      [
+        "rgb(248, 250, 252)",
+        6
+      ],
+      [
+        "rgb(16, 185, 129)",
+        6
+      ],
+      [
+        "rgb(226, 232, 240)",
+        5
+      ],
+      [
+        "rgba(56, 189, 248, 0.25)",
+        3
+      ],
+      [
+        "rgb(248, 113, 113)",
+        2
+      ],
+      [
+        "rgb(37, 99, 235)",
+        1
+      ],
+      [
+        "rgb(34, 197, 94)",
+        1
+      ]
+    ],
+    "fonts": [
+      [
+        "Inter, Roboto, Helvetica, Arial, sans-serif",
+        115
+      ],
+      [
+        "monospace",
+        3
+      ],
+      [
+        "source-code-pro, Menlo, Monaco, Consolas, \"Courier New\", mon",
+        2
+      ]
+    ],
+    "sizes": [
+      [
+        "16px/700",
+        13
+      ],
+      [
+        "12px/700",
+        13
+      ],
+      [
+        "14px/700",
+        12
+      ],
+      [
+        "14px/400",
+        12
+      ],
+      [
+        "14.16px/400",
+        10
+      ],
+      [
+        "12px/400",
+        9
+      ],
+      [
+        "16px/400",
+        8
+      ],
+      [
+        "13px/700",
+        7
+      ],
+      [
+        "36px/900",
+        5
+      ],
+      [
+        "36px/800",
+        4
+      ],
+      [
+        "14.4px/400",
+        3
+      ],
+      [
+        "13px/600",
+        3
+      ],
+      [
+        "18px/800",
+        3
+      ],
+      [
+        "18px/700",
+        3
+      ],
+      [
+        "14px/800",
+        3
+      ],
+      [
+        "15px/700",
+        2
+      ],
+      [
+        "10.4px/800",
+        1
+      ],
+      [
+        "10.88px/600",
+        1
+      ],
+      [
+        "14.8px/800",
+        1
+      ],
+      [
+        "16px/600",
+        1
+      ],
+      [
+        "60.8px/900",
+        1
+      ],
+      [
+        "19.2px/400",
+        1
+      ],
+      [
+        "13.12px/400",
+        1
+      ],
+      [
+        "28px/800",
+        1
+      ],
+      [
+        "14px/600",
+        1
+      ]
+    ],
+    "radii": [
+      [
+        "16px",
+        14
+      ],
+      [
+        "24px",
+        14
+      ],
+      [
+        "50%",
+        12
+      ],
+      [
+        "12px",
+        8
+      ],
+      [
+        "8px",
+        6
+      ],
+      [
+        "36px",
+        6
+      ],
+      [
+        "30px",
+        5
+      ],
+      [
+        "48px",
+        2
+      ]
+    ],
+    "headings": [
+      "H2 60.8px 900 Inter, Roboto, Helvetica, Arial, sans-se rgb(248, 250, 252) lh=69.92px ls=-1.216px",
+      "H3 36px 800 Inter, Roboto, Helvetica, Arial, sans-se rgb(248, 250, 252) lh=43.2px ls=-0.36px",
+      "H3 36px 800 Inter, Roboto, Helvetica, Arial, sans-se rgb(248, 250, 252) lh=43.2px ls=-0.36px",
+      "H3 36px 900 Inter, Roboto, Helvetica, Arial, sans-se rgba(56, 189, 248, 0.25) lh=43.2px ls=-0.36px",
+      "H3 36px 900 Inter, Roboto, Helvetica, Arial, sans-se rgba(56, 189, 248, 0.25) lh=43.2px ls=-0.36px",
+      "H3 36px 900 Inter, Roboto, Helvetica, Arial, sans-se rgba(56, 189, 248, 0.25) lh=43.2px ls=-0.36px",
+      "H3 36px 800 Inter, Roboto, Helvetica, Arial, sans-se rgb(248, 250, 252) lh=43.2px ls=-0.36px",
+      "H3 36px 900 Inter, Roboto, Helvetica, Arial, sans-se rgb(16, 185, 129) lh=43.2px ls=-0.36px",
+      "H3 36px 800 Inter, Roboto, Helvetica, Arial, sans-se rgb(248, 250, 252) lh=43.2px ls=-0.36px",
+      "H3 16px 400 Inter, Roboto, Helvetica, Arial, sans-se rgb(248, 250, 252) lh=25.6px ls=normal",
+      "H3 16px 400 Inter, Roboto, Helvetica, Arial, sans-se rgb(248, 250, 252) lh=25.6px ls=normal",
+      "H3 16px 400 Inter, Roboto, Helvetica, Arial, sans-se rgb(248, 250, 252) lh=25.6px ls=normal"
+    ],
+    "buttons": [
+      "Entrar | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(51, 65, 85) r=30px fs=14.4px fw=600 pad=8px 16px sh=none",
+      " | bg=rgba(15, 23, 42, 0.04) bgi=none color=rgb(15, 23, 42) r=24px fs=24px fw=400 pad=8px sh=none",
+      "Criar Conta B2B | bg=rgb(2, 132, 199) bgi=none color=rgb(255, 255, 255) r=24px fs=16px fw=700 pad=10px 20px sh=rgba(2, 132, 199, 0.4) 0px 4px 14px 0px",
+      "Começar Integração Grátis | bg=rgb(2, 132, 199) bgi=none color=rgb(255, 255, 255) r=24px fs=16.8px fw=800 pad=12.8px 28px sh=rgba(2, 132, 199, 0.5) 0px 4px 20px 0px",
+      "CURL | bg=rgba(56, 189, 248, 0.1) bgi=none color=rgb(56, 189, 248) r=8px fs=12px fw=700 pad=1.6px 8px sh=none",
+      "JSON RETURN | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(100, 116, 139) r=8px fs=12px fw=700 pad=1.6px 8px sh=none",
+      "NODE | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(100, 116, 139) r=8px fs=12px fw=700 pad=1.6px 8px sh=none",
+      "PYTHON | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(100, 116, 139) r=8px fs=12px fw=700 pad=1.6px 8px sh=none",
+      "Copiar | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(148, 163, 184) r=8px fs=12px fw=600 pad=10px 24px sh=none",
+      "Frotas & Locadoras | bg=rgb(2, 132, 199) bgi=none color=rgb(255, 255, 255) r=24px fs=15.2px fw=700 pad=9.6px 20px sh=none",
+      "Despachantes & Assessorias | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(148, 163, 184) r=24px fs=15.2px fw=700 pad=9.6px 20px sh=none",
+      "Apps de Mobilidade & Logtechs | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(148, 163, 184) r=24px fs=15.2px fw=700 pad=9.6px 20px sh=none"
+    ]
+  }
+}

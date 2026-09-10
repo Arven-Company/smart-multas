@@ -1,0 +1,26 @@
+# Smart Multas — todos os crawlers liberados, incluindo crawlers de IA.
+# Área logada e painéis do app ficam fora deste site estático.
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://smartmultas.com.br/sitemap.xml

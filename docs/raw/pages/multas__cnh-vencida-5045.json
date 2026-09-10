@@ -1,0 +1,494 @@
+{
+  "title": "Recurso de Multa por CNH Vencida (Cód. 5045) | Smart Multas",
+  "meta": {
+    "viewport": "width=device-width, initial-scale=1",
+    "theme-color": "#1E293B",
+    "description": "Recorra da multa de Dirigir Veículo com CNH Vencida há mais de 30 Dias (Art. 162, V do CTB). Petição jurídica pronta por R$ 39,90 gerada por IA. Economize R$ 293,47 e proteja seus 7 pontos na CNH."
+  },
+  "ld": [
+    "\n            {\n              \"@context\": \"https://schema.org\",\n              \"@type\": \"Product\",\n              \"name\": \"Recurso de Multa por CNH Vencida (Cód. 5045)\",\n              \"description\": \"Conduzir com habilitação vencida além do prazo legal de 30 dias de tolerância do CTB.\",\n              \"offers\": {\n                \"@type\": \"Offer\",\n                \"price\": \"19.90\",\n                \"priceCurrency\": \"BRL\",\n                \"availability\": \"https://schema.org/InStock\"\n              }\n            }\n          "
+  ],
+  "headings": [
+    "H5: Smart Multas IA",
+    "H1: Recurso para Multa de Dirigir Veículo com CNH Vencida há mais de 30 Dias",
+    "H5: R$ 293,47",
+    "H5: 7 Pontos",
+    "H5: R$ 39,90",
+    "H6: IA Especializada no CTB",
+    "H2: Principais Brechas de Anulação para esta Multa",
+    "H6: Nossa Inteligência Artificial analisa minuciosamente seu auto de infração buscando irregularidades formais e materiais.",
+    "H5: Tolerância Obrigatória de 30 Dias após o Vencimento",
+    "H5: Deliberações de Prorrogação de Prazos do CONTRAN",
+    "H3: Perguntas sobre a Multa de Dirigir Veículo com CNH Vencida há mais de 30 Dias",
+    "H3: Quantos dias posso rodar com a CNH vencida?",
+    "H6: Quantos dias posso rodar com a CNH vencida?",
+    "H3: Pronto para anular sua multa de R$ 293,47?",
+    "H5: Outros Guias de Recursos de Multas Populares:",
+    "H6: Dirigir veículo sem possuir Carteira Nacional de Habilitação, Permissão para Dirigir ou Autorização para Conduzir Ciclomotor",
+    "H6: Dirigir veículo com Carteira Nacional de Habilitação, Permissão para Dirigir ou Autorização para Conduzir Ciclomotor cassada ou com suspensão do direito de dirigir",
+    "H6: Dirigir com Carteira Nacional de Habilitação ou Permissão para Dirigir de categoria diferente da do veículo que esteja conduzindo",
+    "H6: Dirigir sem usar lentes corretoras de visão, aparelho auxiliar de audição, de prótese física ou as adaptações do veículo impostas por ocasião da concessão ou da renovação da licença para conduzir",
+    "H6: Legislação Atualizada",
+    "H6: Inteligência Artificial",
+    "H6: Pagamento Seguro",
+    "H6: Direito de Defesa",
+    "H5: Smart Multas",
+    "H6: Recursos & Multas",
+    "H6: Para Profissionais",
+    "H6: Atendimento Oficial"
+  ],
+  "links": [
+    {
+      "text": "Smart Multas IA Defesa e Recursos de Trânsito",
+      "href": "/"
+    },
+    {
+      "text": "Tipos de Multas",
+      "href": "/multas"
+    },
+    {
+      "text": "Ranking",
+      "href": "/ranking-multas"
+    },
+    {
+      "text": "Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Recorrer Multa",
+      "href": "/define-violation"
+    },
+    {
+      "text": "Cód: 50100 Dirigir veículo sem possuir Carteira Nacional de Habilitação, Permiss",
+      "href": "/multas/dirigir-veiculo-sem-possuir-carteira-naci-50100"
+    },
+    {
+      "text": "Cód: 50291 Dirigir veículo com Carteira Nacional de Habilitação, Permissão para ",
+      "href": "/multas/dirigir-veiculo-com-carteira-nacional-de-50291"
+    },
+    {
+      "text": "Cód: 50371 Dirigir com Carteira Nacional de Habilitação ou Permissão para Dirigi",
+      "href": "/multas/dirigir-com-carteira-nacional-de-habilita-50371"
+    },
+    {
+      "text": "Cód: 50531 Dirigir sem usar lentes corretoras de visão, aparelho auxiliar de aud",
+      "href": "/multas/dirigir-sem-usar-lentes-corretoras-de-vis-50531"
+    },
+    {
+      "text": "Ver todos os tipos de multas →",
+      "href": "/multas"
+    },
+    {
+      "text": "Tipos de Multas (CTB)",
+      "href": "/multas"
+    },
+    {
+      "text": "Ranking de Infrações",
+      "href": "/ranking-multas"
+    },
+    {
+      "text": "Blog de Trânsito",
+      "href": "/blog"
+    },
+    {
+      "text": "Recorrer Minha Multa",
+      "href": "/define-violation"
+    },
+    {
+      "text": "Indique e Ganhe",
+      "href": "/indique"
+    },
+    {
+      "text": "Smart Multas Pro (Despachantes)",
+      "href": "/despachantes"
+    },
+    {
+      "text": "Painel para Advogados",
+      "href": "/advogados"
+    },
+    {
+      "text": "Proteção Veicular & APVs",
+      "href": "/protecao-veicular"
+    },
+    {
+      "text": "API B2B para Frotas",
+      "href": "/api-b2b"
+    },
+    {
+      "text": "Perguntas Frequentes (FAQ)",
+      "href": "/faq"
+    },
+    {
+      "text": "WhatsApp: (31) 2181-2033",
+      "href": "https://wa.me/553121812033?text=Ol%C3%A1!%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida%20sobre%20o%20Smart%20Multas."
+    },
+    {
+      "text": "",
+      "href": "https://wa.me/553121812033?text=Ol%C3%A1!%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida%20sobre%20o%20Smart%20Multas."
+    },
+    {
+      "text": "",
+      "href": "https://www.instagram.com/smartmultas.ia"
+    },
+    {
+      "text": "",
+      "href": "https://youtube.com/@smartmultas9896?si=nbMF_Ibb_4cWUeXy"
+    },
+    {
+      "text": "",
+      "href": "https://www.facebook.com/smartmultas"
+    },
+    {
+      "text": "",
+      "href": "https://www.tiktok.com/@smartmultas"
+    },
+    {
+      "text": "Novamente Software",
+      "href": "https://novamentesoftware.com/"
+    },
+    {
+      "text": "",
+      "href": "https://wa.me/553121812033?text=Ol%C3%A1!%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida%20sobre%20o%20Smart%20Multas."
+    }
+  ],
+  "buttons": [
+    "Entrar",
+    "Gerar Recurso por R$ 39,90",
+    "Quantos dias posso rodar com a CNH vencida?",
+    "Criar Recurso por R$ 39,90"
+  ],
+  "images": [
+    {
+      "src": "https://smartmultas.com.br/logomultas.webp",
+      "alt": "Smart Multas Logo",
+      "w": 192,
+      "h": 192
+    },
+    {
+      "src": "https://smartmultas.com.br/logomultas.webp",
+      "alt": "Smart Multas Logo",
+      "w": 192,
+      "h": 192
+    }
+  ],
+  "text": "Smart Multas\nIA\nDefesa e Recursos de Trânsito\nTipos de Multas\nRanking\nBlog\nEntrar\nRecorrer Multa\nCÓDIGO: 5045\nArt. 162, V do CTB\nGravidade: Gravíssima\nRecurso para Multa de Dirigir Veículo com CNH Vencida há mais de 30 Dias\n\nInfração gravíssima que gera 7 pontos. O CTB permite expressamente dirigir com a CNH vencida por até 30 dias contados da data de validade. Autuações emitidas antes dos 30 dias ou com prorrogações do CONTRAN são nulas.\n\nVALOR DA MULTA\nR$ 293,47\nPONTOS NA CNH\n7 Pontos\nCUSTO RECURSO\nR$ 39,90\nADVERTÊNCIA\n\nNão se aplica\n\nGerar Recurso por R$ 39,90\n🔒 Pagamento 100% seguro via Mercado Pago · Garantia de devolução de 7 dias\nIA Especializada no CTB\nElaboração automática para o Cód. 5045\nO QUE SERÁ INCLUÍDO NO SEU RECURSO:\n\nPetição completa endereçada à JARI / DETRAN\n\nArgumentação detalhada sobre Art. 162, V do CTB\n\nVerificação de prazos e decadência de 30 dias\n\nInstruções práticas de protocolo presencial ou online\n\nGarantia legal incondicional de 7 dias (CDC)\n\nArt. 284 e 286 do CTB:\nVocê NÃO precisa pagar a multa de R$ 293,47 para apresentar sua defesa prévia e recurso.\nTESES JURÍDICAS APLICÁVEIS\nPrincipais Brechas de Anulação para esta Multa\nNossa Inteligência Artificial analisa minuciosamente seu auto de infração buscando irregularidades formais e materiais.\nArt. 162, V do CTB\nTolerância Obrigatória de 30 Dias após o Vencimento\n\nA lei assegura 30 dias corridos de carência após a data estampada no documento sem configuração de infração.\n\nResoluções e Deliberações SENATRAN/CONTRAN\nDeliberações de Prorrogação de Prazos do CONTRAN\n\nEm períodos de calamidade ou deliberações excepcionais, os prazos de renovação são estendidos em âmbito estadual ou federal.\n\nDÚVIDAS ESPECÍFICAS\nPerguntas sobre a Multa de Dirigir Veículo com CNH Vencida há mais de 30 Dias\nQuantos dias posso rodar com a CNH vencida?\n\nVocê pode dirigir normalmente por até 30 dias corridos após a data de vencimento registrada na sua habilitação (física ou digital).\n\nPronto para anular sua multa de R$ 293,47?\n\nPague apenas R$ 39,90 no PIX ou Cartão e receba sua petição completa elaborada por IA em poucos minutos.\n\nCriar Recurso por R$ 39,90\nOutros Guias de Recursos de Multas Populares:\nCód: 50100\nDirigir veículo sem possuir Carteira Nacional de Habilitação, Permissão para Dirigir ou Autorização para Conduzir Ciclomotor\nR$ 880,41 · 7 Pontos\nCód: 50291\nDirigir veículo com Carteira Nacional de Habilitação, Permissão para Dirigir ou Autorização para Conduzir Ciclomotor cassada ou com suspensão do direito de dirigir\nR$ 880,41 · 7 Pontos\nCód: 50371\nDirigir com Carteira Nacional de Habilitação ou Permissão para Dirigir de categoria diferente da do veículo que esteja conduzindo\nR$ 586,94 · 7 Pontos\nCód: 50531\nDirigir sem usar lentes corretoras de visão, aparelho auxiliar de audição, de prótese física ou as adaptações do veículo impostas por ocasião da concessão ou da renovação da licença para conduzir\nR$ 293,47 · 7 Pontos\nVer todos os tipos de multas →\nLegislação Atualizada\nEmbasado no CTB e CONTRAN 2026\nInteligência Artificial\nAnálise técnica de falhas formais\nPagamento Seguro\nCriptografia SSL via Mercado Pago\nDireito de Defesa\nGarantido pelo Art. 5º da CF/88\nSmart Multas\nINTELIGÊNCIA EM DIREITO DE TRÂNSITO\n\nA tecnologia pioneira para motoristas recorrerem de multas indevidas de forma rápida, eficiente e acessível. Analisamos sua autuação e geramos a petição pronta para protocolo.\n\nFORMAS DE PAGAMENTO ACEITAS\nPIX Instantâneo\nCartão de Crédito\nMercado Pago\nRecursos & Multas\nTipos de Multas (CTB)\nRanking de Infrações\nBlog de Trânsito\nRecorrer Minha Multa\nIndique e Ganhe\nPara Profissionais\nSmart Multas Pro (Despachantes)\nPainel para Advogados\nProteção Veicular & APVs\nAPI B2B para Frotas\nPerguntas Frequentes (FAQ)\nAtendimento Oficial\nWhatsApp: (31) 2181-2033\nAtendimento de Segunda a Sexta, das 09h às 18h\nAviso Legal: A Smart Multas é uma plataforma tecnológica de inteligência artificial aplicada ao Direito de Trânsito que auxilia o cidadão a exercer seu direito constitucional de ampla defesa. Não substituímos a assessoria jurídica individualizada de um advogado devidamente inscrito na OAB.\n© 2026 Smart Multas Tecnologia. Todos os direitos reservados.\nDesenvolvido pela Novamente Software",
+  "styles": {
+    "body": {
+      "bg": "rgb(248, 250, 252)",
+      "color": "rgb(51, 65, 85)",
+      "font": "Inter, Roboto, Helvetica, Arial, sans-serif"
+    },
+    "bg": [
+      [
+        "rgb(255, 255, 255)",
+        10
+      ],
+      [
+        "rgb(248, 250, 252)",
+        5
+      ],
+      [
+        "rgba(255, 255, 255, 0.06)",
+        5
+      ],
+      [
+        "rgba(0, 0, 0, 0.08)",
+        4
+      ],
+      [
+        "rgb(16, 185, 129)",
+        2
+      ],
+      [
+        "rgb(37, 211, 102)",
+        2
+      ],
+      [
+        "rgba(255, 255, 255, 0.94)",
+        1
+      ],
+      [
+        "rgba(37, 99, 235, 0.1)",
+        1
+      ],
+      [
+        "rgba(37, 99, 235, 0.08)",
+        1
+      ],
+      [
+        "rgb(37, 99, 235)",
+        1
+      ],
+      [
+        "rgba(15, 23, 42, 0.04)",
+        1
+      ],
+      [
+        "radial-gradient(circle, rgba(16, 185, 129, 0.08) 0%, rgba(255, 255, 255, 0) 70%)",
+        1
+      ],
+      [
+        "rgb(30, 41, 59)",
+        1
+      ],
+      [
+        "rgb(211, 47, 47)",
+        1
+      ],
+      [
+        "rgba(16, 185, 129, 0.12)",
+        1
+      ],
+      [
+        "rgba(59, 130, 246, 0.08)",
+        1
+      ],
+      [
+        "rgba(59, 130, 246, 0.1)",
+        1
+      ],
+      [
+        "rgba(16, 185, 129, 0.1)",
+        1
+      ],
+      [
+        "rgb(9, 13, 22)",
+        1
+      ],
+      [
+        "rgba(15, 23, 42, 0.75)",
+        1
+      ],
+      [
+        "rgba(34, 197, 94, 0.12)",
+        1
+      ],
+      [
+        "rgba(56, 189, 248, 0.12)",
+        1
+      ],
+      [
+        "rgba(255, 255, 255, 0.08)",
+        1
+      ]
+    ],
+    "fg": [
+      [
+        "rgb(71, 85, 105)",
+        24
+      ],
+      [
+        "rgb(15, 23, 42)",
+        16
+      ],
+      [
+        "rgb(148, 163, 184)",
+        16
+      ],
+      [
+        "rgb(255, 255, 255)",
+        11
+      ],
+      [
+        "rgb(30, 41, 59)",
+        5
+      ],
+      [
+        "rgb(100, 116, 139)",
+        4
+      ],
+      [
+        "rgb(56, 189, 248)",
+        3
+      ],
+      [
+        "rgb(51, 65, 85)",
+        1
+      ],
+      [
+        "rgb(37, 99, 235)",
+        1
+      ],
+      [
+        "rgb(211, 47, 47)",
+        1
+      ],
+      [
+        "rgb(230, 81, 0)",
+        1
+      ],
+      [
+        "rgb(5, 150, 105)",
+        1
+      ],
+      [
+        "rgb(29, 78, 216)",
+        1
+      ],
+      [
+        "rgb(34, 197, 94)",
+        1
+      ],
+      [
+        "rgb(203, 213, 225)",
+        1
+      ]
+    ],
+    "fonts": [
+      [
+        "Inter, Roboto, Helvetica, Arial, sans-serif",
+        87
+      ]
+    ],
+    "sizes": [
+      [
+        "12px/700",
+        14
+      ],
+      [
+        "12px/400",
+        12
+      ],
+      [
+        "14.16px/400",
+        10
+      ],
+      [
+        "14px/800",
+        8
+      ],
+      [
+        "14px/500",
+        5
+      ],
+      [
+        "20px/900",
+        4
+      ],
+      [
+        "13px/700",
+        4
+      ],
+      [
+        "14px/700",
+        4
+      ],
+      [
+        "20px/800",
+        3
+      ],
+      [
+        "14px/400",
+        3
+      ],
+      [
+        "16px/400",
+        2
+      ],
+      [
+        "12.8px/700",
+        2
+      ],
+      [
+        "10.4px/800",
+        1
+      ],
+      [
+        "10.88px/600",
+        1
+      ],
+      [
+        "14.8px/800",
+        1
+      ],
+      [
+        "12.8px/800",
+        1
+      ],
+      [
+        "51.2px/900",
+        1
+      ],
+      [
+        "18.4px/400",
+        1
+      ],
+      [
+        "12px/500",
+        1
+      ],
+      [
+        "18px/800",
+        1
+      ],
+      [
+        "12px/800",
+        1
+      ],
+      [
+        "44px/800",
+        1
+      ],
+      [
+        "18px/500",
+        1
+      ],
+      [
+        "36px/800",
+        1
+      ],
+      [
+        "16.8px/700",
+        1
+      ]
+    ],
+    "radii": [
+      [
+        "16px",
+        14
+      ],
+      [
+        "50%",
+        8
+      ],
+      [
+        "30px",
+        7
+      ],
+      [
+        "36px",
+        5
+      ],
+      [
+        "50px",
+        4
+      ],
+      [
+        "48px",
+        3
+      ],
+      [
+        "24px",
+        1
+      ],
+      [
+        "8px",
+        1
+      ]
+    ],
+    "headings": [
+      "H1 51.2px 900 Inter, Roboto, Helvetica, Arial, sans-se rgb(15, 23, 42) lh=61.44px ls=-1.024px",
+      "H2 44px 800 Inter, Roboto, Helvetica, Arial, sans-se rgb(15, 23, 42) lh=52.8px ls=-0.88px",
+      "H3 36px 800 Inter, Roboto, Helvetica, Arial, sans-se rgb(15, 23, 42) lh=43.2px ls=-0.36px",
+      "H3 16px 400 Inter, Roboto, Helvetica, Arial, sans-se rgb(15, 23, 42) lh=25.6px ls=normal",
+      "H3 36px 900 Inter, Roboto, Helvetica, Arial, sans-se rgb(15, 23, 42) lh=43.2px ls=-0.36px"
+    ],
+    "buttons": [
+      "Entrar | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(51, 65, 85) r=30px fs=14.4px fw=600 pad=8px 16px sh=none",
+      " | bg=rgba(15, 23, 42, 0.04) bgi=none color=rgb(15, 23, 42) r=24px fs=24px fw=400 pad=8px sh=none",
+      "Gerar Recurso por R$ 39,90 | bg=rgb(16, 185, 129) bgi=none color=rgb(255, 255, 255) r=50px fs=17.6px fw=800 pad=16px 36px sh=rgba(16, 185, 129, 0.4) 0px 10px 25px 0px",
+      "Quantos dias posso rodar com a | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(15, 23, 42) r=0px fs=13.3333px fw=400 pad=12px 24px sh=none",
+      "Criar Recurso por R$ 39,90 | bg=rgb(16, 185, 129) bgi=none color=rgb(255, 255, 255) r=50px fs=19.2px fw=800 pad=17.6px 48px sh=rgba(16, 185, 129, 0.4) 0px 12px 30px 0px"
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+Smart Multas
+IA
+Defesa e Recursos de Trânsito
+Tipos de Multas
+Ranking
+Blog
+Entrar
+Recorrer Multa
+Smart Multas
+B2B API & SDK
+Portal do Parceiro
+Criar Conta B2B
+API RESTful de Defesa de Multas com IA Jurídica
+Ofereça Recursos de Multas via API no seu Sistema ou Aplicativo
+Envie o código da infração, receba as perguntas dinâmicas e gere petições jurídicas completas em PDF prontas para protocolo em segundos. Sem contratos fixos, com recarga pré-paga via PIX e Cartão.
+Começar Integração Grátis
+Falar com Especialista
+Ambiente Sandbox
+Documentação Swagger
+Recarga Instantânea no PIX
+CURL
+JSON RETURN
+NODE
+PYTHON
+Copiar
+# 1. Consultar perguntas do código da multa
+curl -X POST https://api.smartmultas.com.br/api/v1/partner/fines/lookup \
+  -H "Authorization: Bearer sk_live_SUA_API_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{"fine_code": "745-5"}'
+
+# 2. Gerar Petição Pronta em PDF (One-Shot)
+curl -X POST https://api.smartmultas.com.br/api/v1/partner/petitions/direct \
+  -H "Authorization: Bearer sk_live_SUA_API_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "fine_code": "745-5",
+    "ticket_code": "AB01234567",
+    "driver": {
+      "first_name": "Carlos",
+      "last_name": "Eduardo Silva",
+      "cpf": "123.456.789-00"
+    },
+    "vehicle": {
+      "plate": "ABC1D23",
+      "model": "Toyota Corolla"
+    }
+  }'
+Status: 200 OK (280ms)
+Content-Type: application/json
+PÚBLICOS-ALVO & CASOS DE USO
+Feito para empresas que precisam de escala e precisão jurídica
+
+Seja para resolver gargalos operacionais de frotas ou para oferecer um produto inovador in-app aos seus clientes, nossa API se adapta ao seu modelo de negócio.
+
+Frotas & Locadoras
+Despachantes & Assessorias
+Apps de Mobilidade & Logtechs
+Seguradoras & Proteção Veicular
+Desenvolvedores & SaaS
+Redução de Custos em Escala
+Automatize recursos para centenas ou milhares de veículos
+
+Ideal para locadoras, transportadoras, frotas corporativas e empresas de locação de veículos.
+
+❌ DORES QUE RESOLVEMOS:
+Volume enorme de notificações de autuação que vencem por falta de tempo
+Cobrança indevida de clientes e custos pesados com despachantes terceirizados
+Dificuldade de apontar o Real Condutor (FICI) no prazo legal de 30 dias
+✅ O QUE A NOSSA API ENTREGA:
+Geração de petições personalizadas em lote com um simples comando de API
+Checagem automática de nulidade por decadência dos 30 dias (Art. 281 do CTB)
+Economia de até 85% no custo por recurso processado
+Formatado para protocolo direto em órgãos municipais, DETRAN, PRF e DNIT
+Automatizar Frota via API
+Motor Jurídico Especializado
+
+Nosso algoritmo analisa automaticamente variáveis como velocidade aferida x limite, data de aferição do INMETRO, dupla notificação de pessoa jurídica (Tema 1.097 STJ), decadência de 30 dias e conversão em advertência por escrito.
+
+Taxa de assertividade formal:
+
+98.7%
+
+Tempo médio de resposta:
+
+< 300 ms
+
+Formato de entrega:
+
+PDF A4 + JSON
+
+ARQUITETURA SIMPLES & PODEROSA
+Como a integração funciona na prática
+
+Em apenas 3 chamadas HTTP REST, sua plataforma transforma um código de infração em uma defesa jurídica perfeita pronta para protocolo.
+
+01
+Lookup & Perguntas
+POST /fines/lookup
+Envie o Código da Multa
+
+O parceiro envia o código do CTB (ex: 745-5 ou 500-2). A API retorna o enquadramento, pontos, gravidade e as perguntas dinâmicas cabíveis para aquela infração.
+
+💡 Custo por chamada: R$ 0,50 por consulta
+02
+Inteligência Jurídica
+POST /petitions/analyze
+Devolva as Respostas
+
+Envie as respostas selecionadas e os dados fáticos. A API processa e devolve a fundamentação jurídica completa, teses de nulidade e artigos aplicáveis.
+
+💡 Custo por chamada: R$ 1,00 por análise
+03
+Petição PDF Pronta
+POST /petitions/generate
+Gere o PDF Final
+
+Envie os dados do condutor e veículo. A API gera o documento PDF final oficial com cabeçalho do órgão competente, fatos, fundamentos, pedidos e link seguro de download.
+
+💡 Custo por chamada: R$ 3,50 por documento
+
+⚡ Prefere tudo em uma única requisição? Utilize o endpoint POST /petitions/direct (One-Shot a R$ 5,00) e receba o PDF pronto em uma única chamada.
+
+CALCULADORA DE ECONOMIA
+Simule a economia da sua operação
+
+Contratar advogados ou despachantes tradicionais para redigir recursos avulsos custa em média R$ 60 a R$ 150 por processo. Com a API Smart Multas, seu custo cai para apenas R$ 5,00 por petição emitida.
+
+Volume mensal de recursos:
+250 petições / mês
+
+ECONOMIA ESTIMADA PARA SUA EMPRESA
+Economia Anual Estimada:
+R$ 165.000,00
+
+R$ 13.750,00 economizados todos os meses
+
+Custo Tradicional (250x R$ 60):
+
+R$ 15.000,00
+
+Custo via Smart Multas API (250x R$ 5):
+
+R$ 1.250,00
+
+Criar Conta e Começar a Economizar
+DÚVIDAS FREQUENTES
+Perguntas Frequentes sobre a API B2B
+
+Como funciona a cobrança e recarga de créditos?
+
+As petições geradas são aceitas oficialmente pelos órgãos de trânsito?
+
+Posso testar a API gratuitamente antes de contratar?
+
+Vocês oferecem tabela de preços personalizada para alto volume?
+
+Quais linguagens e frameworks são suportados?
+
+Pronto para integrar a melhor IA jurídica de trânsito no seu negócio?
+
+Cadastre sua empresa, obtenha suas API Keys e comece a gerar recursos com alta taxa de deferimento hoje mesmo.
+
+Cadastrar Empresa Parceira
+Acessar Portal do Desenvolvedor
+Legislação Atualizada
+Embasado no CTB e CONTRAN 2026
+Inteligência Artificial
+Análise técnica de falhas formais
+Pagamento Seguro
+Criptografia SSL via Mercado Pago
+Direito de Defesa
+Garantido pelo Art. 5º da CF/88
+Smart Multas
+INTELIGÊNCIA EM DIREITO DE TRÂNSITO
+
+A tecnologia pioneira para motoristas recorrerem de multas indevidas de forma rápida, eficiente e acessível. Analisamos sua autuação e geramos a petição pronta para protocolo.
+
+FORMAS DE PAGAMENTO ACEITAS
+PIX Instantâneo
+Cartão de Crédito
+Mercado Pago
+Recursos & Multas
+Tipos de Multas (CTB)
+Ranking de Infrações
+Blog de Trânsito
+Recorrer Minha Multa
+Indique e Ganhe
+Para Profissionais
+Smart Multas Pro (Despachantes)
+Painel para Advogados
+Proteção Veicular & APVs
+API B2B para Frotas
+Perguntas Frequentes (FAQ)
+Atendimento Oficial
+WhatsApp: (31) 2181-2033
+Atendimento de Segunda a Sexta, das 09h às 18h
+Aviso Legal: A Smart Multas é uma plataforma tecnológica de inteligência artificial aplicada ao Direito de Trânsito que auxilia o cidadão a exercer seu direito constitucional de ampla defesa. Não substituímos a assessoria jurídica individualizada de um advogado devidamente inscrito na OAB.
+© 2026 Smart Multas Tecnologia. Todos os direitos reservados.
+Desenvolvido pela Novamente Software

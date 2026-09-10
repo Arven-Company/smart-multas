@@ -1,0 +1,259 @@
+Smart Multas
+IA
+Defesa e Recursos de Trânsito
+Tipos de Multas
+Ranking
+Blog
+Entrar
+Recorrer Multa
+Início
+/
+Blog
+/
+Recurso de Multa
+Voltar para o Blog
+29 de agosto de 2026
+11 min de leitura
+2591 visualizações
+5 razões para você sempre recorrer das suas multas
+Recorrer de multas é um direito de todo cidadão. Saiba por que você sempre deve recorrer de suas multas, usufruindo de seu direito de defesa e com boas chances de reverter a autuação.
+Revisado por Especialistas em Direito de Trânsito
+Conteúdo embasado no Código de Trânsito Brasileiro (CTB) e Resoluções vigentes do CONTRAN
+Tamanho da fonte (Normal)
+
+Compartilhar artigo:
+
+WhatsApp
+Telegram
+Copiar Link
+
+A maioria das pessoas que são autuadas numa infração de trânsito costuma não recorrer, seja por achar que "merece" pagar pela infração que cometeu ou por não saber que pode se defender. Trata-se de uma cultura do brasileiro que, por falta de informação, acaba pagando por multas que seriam facilmente anuladas perante a autoridade competente. Mas, como assim?!
+
+
+
+
+Existem outros meios de defender-se de uma autuação além da comprovação do não cometimento. Eles são: a identificação de um vício formal ou de um vício processual. Por isso é necessário fazer uma defesa técnica baseada na legislação vigente para obter sucesso em seu pedido de nulidade. Diante dessa realidade, explicaremos aqui 5 razões para você recorrer de TODAS suas multas!
+
+
+
+
+1º: Auto de Infração Inconsistente ou Irregular
+
+O primeiro motivo e talvez o mais importante e comum de ocorrer, é quando o Auto de Infração é inconsistente ou irregular nos termos do art. 281 do CTB.
+
+Vejamos:
+
+
+
+
+Art. 281. A autoridade de trânsito, na esfera da competência estabelecida neste Código e dentro de sua circunscrição, julgará a consistência do auto de infração e aplicará a penalidade cabível.
+Parágrafo único. O auto de infração será arquivado e seu registro julgado insubsistente:
+I - se considerado inconsistente ou irregular;
+(...)
+
+Por inconsistência e irregularidade podemos interpretar o preenchimento inadequado do Auto de Infração ou a ausência de seus requisitos essenciais. Por exemplo, vejamos o artigo 280 do Código de Trânsito Brasileiro::
+
+Art. 280. Ocorrendo infração prevista na legislação de trânsito, lavrar-se-á auto de infração, do qual constará:
+I - tipificação da infração;
+II - local, data e hora do cometimento da infração;
+III - caracteres da placa de identificação do veículo, sua marca e espécie, e outros elementos julgados necessários à sua identificação;
+IV - o prontuário do condutor, sempre que possível;
+V - identificação do órgão ou entidade e da autoridade ou agente autuador ou equipamento que comprovar a infração;
+VI - assinatura do infrator, sempre que possível, valendo esta como notificação do cometimento da infração.
+
+Com exceção do inciso IV que entendo não haver qualquer validade, e do VI que não é obrigatório a assinatura do suposto infrator, os dados dos outros incisos devem constar no auto de infração lavrados pelos agentes da autoridade de trânsito, sob pena de nulidade. Ademais, a RESOLUÇÃO 404/ 12 do CONTRAN dispõe que: padronização dos procedimentos administrativos na lavratura de Auto de Infração, na expedição de notificação de autuação, diz o seguinte:
+
+Art. 2º Constatada a infração pela autoridade de trânsito ou por seu agente, ou ainda comprovada sua ocorrência por aparelho eletrônico ou por equipamento audiovisual, reações químicas ou qualquer outro meio tecnologicamente disponível, previamente regulamentado pelo CONTRAN, será lavrado o Auto de Infração que deverá conter os dados mínimos definidos pelo art. 280 do CTB e em regulamentação específica.
+
+Existem também outras normas regulamentadoras específicas para que o auto de infração de trânsito seja considerado válido, mas elas devem ser consideradas caso a caso.
+
+
+
+
+2º. Notificação de Autuação Enviada Além do Prazo de 30 Dias
+
+O art. 281 do CTB dispõe que:
+
+Art. 281. A autoridade de trânsito, na esfera da competência estabelecida neste Código e dentro de sua circunscrição, julgará a consistência do auto de infração e aplicará a penalidade cabível.
+Parágrafo único. O auto de infração será arquivado e seu registro julgado insubsistente:
+I - se considerado inconsistente ou irregular;
+II - se, no prazo máximo de trinta dias, não for expedida a notificação da autuação
+
+Há divergências de entendimento sobre em que momento se caracterizaria a EXPEDIÇÃO da notificação. O Superior Tribunal de Justiça já se manifestou sobre o tema, mas não esclareceu esse ponto:
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. AUTO DE INFRAÇÃO. NOTIFICAÇÃO. PRAZO. ART. 281, PARÁGRAFO ÚNICO, II, DO CTB. NULIDADE. RENOVAÇÃO DE PRAZO DO PROCEDIMENTO ADMINISTRATIVO. DECADÊNCIA. IMPOSSIBILIDADE. HONORÁRIOS. SÚMULA 7/STJ. RESTITUIÇÃO DE VALORES. INDEVIDAMENTE PAGOS. POSSIBILIDADE.
+1. O Código de Trânsito Brasileiro (Lei 9.503/97) prevê uma primeira notificação de autuação, para apresentação de defesa (art. 280), e uma segunda notificação, posteriormente, informando do prosseguimento do processo, para que se defenda o apenado da sanção aplicada (art. 281).
+2. A sanção é ilegal, por cerceamento de defesa, quando inobservados os prazos estabelecidos.
+3. O art. 281, parágrafo único, II, do CTB prevê que será arquivado o auto de infração e julgado insubsistente o respectivo registro se não for expedida a notificação da autuação dentro de 30 dias. Por isso, não havendo a notificação do infrator para defesa no prazo de trinta dias, opera-se a decadência do direito de punir do Estado, não havendo que se falar em reinício do procedimento administrativo.
+(...)
+8. Conforme se depreende da análise do julgado (fls. 660/663), assiste razão aos recorrentes em relação aos autos de infração de trânsito lavrados em flagrante (ns. 311534B, 311903B, 214066B2 e 504813), pois não foi respeitado o prazo para a defesa prévia imposto pela norma legal.
+9. Recurso especial provido.
+RECURSO ESPECIAL Nº 947.223 - RS (2007/0068024-3)
+
+Para dirimir esta dúvida, o CONTRAN regulamentou esta questão ao publicar sua Resolução 404/12:
+
+Art. 3º À exceção do disposto no § 5ºdo artigoo anterior, após a verificação da regularidade e da consistência do Auto de Infração, a autoridade de trânsito expedirá, no prazo máximo de 30 (trinta) dias contados da data do cometimento da infração, a Notificação da Autuação dirigida ao proprietário do veículo, na qual deverão constar os dados mínimos definidos no art. 280 do CTB e em regulamentação específica.
+§ 1º Quando utilizada a remessa postal, a expedição se caracterizará pela entrega da notificação da autuação pelo órgão ou entidade de trânsito à empresa responsável por seu envio.
+§ 2º A não expedição da notificação da autuação no prazo previsto no caput deste artigo ensejará o arquivamento do Auto de Infração.
+
+Em nosso entendimento, a entrega da notificação seria a data da postagem no correio. Desse modo, ao receber a notificação pelo correio, verifique a data em que a mesma foi expedida, e ser for acima do prazo de 30 dias, o auto de infração será nulo. E se a autuação ocorreu mediante flagrante (abordagem do veículo), como fica este prazo? Vejamos o artigo 280 do Código de Trânsito Brasileiro:
+
+Art. 280. Ocorrendo infração prevista na legislação de trânsito, lavrar-se-á auto de infração, do qual constará:
+(...)
+VI - assinatura do infrator, sempre que possível, valendo esta como notificação do cometimento da infração.
+
+Nos termos dessa norma, a notificação do suposto infrator durante a abordagem é comprovada pela assinatura deste. Da mesma maneira, a Resolução 404/12 do CONTRAN:
+
+Art. 2º
+§ 5º O Auto de Infração valerá como notificação da autuação quando for assinado pelo condutor e este for o proprietário do veículo.
+
+Portanto, o auto de infração de trânsito só valerá como notificação para apresentar defesa caso seja assinado pelo condutor que for o proprietário do veículo. No mesmo sentido, se for uma infração de responsabilidade de proprietário, mas não era este quem conduzia o veículo, também o auto de infração não vale como notificação para apresentar defesa, mesmo que o condutor tenha assinado o auto de infração.
+
+Lembrando, que o prazo para apresentação da defesa em casos de flagrante e assinatura no AIT é de 15 dias conforme previsto na mesma resolução 404/12 do CONTRAN:
+
+Art. 3º
+§ 3º Da Notificação da Autuação constará a data do término do prazo para a apresentação da Defesa da Autuação pelo proprietário do veículo ou pelo condutor infrator devidamente identificado, que não será inferior a 15 (quinze) dias, contados da data da notificação da autuação ou publicação por edital, observado o disposto no art.12222 desta Resolução.
+
+
+
+
+3º Sinalização Insuficiente ou Incorreta
+
+Quando a sinalização de trânsito for insuficiente ou incorreta é possível anular o auto de infração de trânsito. Vejamos:
+
+Art. 90. Não serão aplicadas as sanções previstas neste Código por inobservância à sinalização quando esta for insuficiente ou incorreta.
+§ 1º O órgão ou entidade de trânsito com circunscrição sobre a via é responsável pela implantação da sinalização, respondendo pela sua falta, insuficiência ou incorreta colocação.
+A Lei é muito clara quando diz que as sanções (multas e penalidades), não podem ser aplicadas quando a sinalização estiver irregularmente colocada, ou não for suficiente para que os motoristas e pedestres possam entendê-las.
+
+
+
+
+4º Equipamento Não Aferido Pelo INMETRO
+
+Nos termos do art. 280, §2o do Código de Trânsito Brasileiro::
+
+Art. 280
+§ 2º A infração deverá ser comprovada por declaração da autoridade ou do agente da autoridade de trânsito, por aparelho eletrônico ou por equipamento audiovisual, reações químicas ou qualquer outro meio tecnologicamente disponível, previamente regulamentado pelo CONTRAN.
+
+As autuações de trânsito podem ser realizadas pelo próprio agente competente ou por aparelhos e equipamentos eletrônicos. No entanto, para averiguar o adequado funcionamento para tal função, é necessário que os aparelhos enfrentem a regulamentação do CONTRAN, sob pena de invalidade de eventual autuação. Por exemplo, a Resolução 396/11, do CONTRAN:
+
+Art. 3º O medidor de velocidade de veículos deve observar os seguintes requisitos:
+I - ter seu modelo aprovado pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia - INMETRO, atendendo à legislação metrológica em vigor e aos requisitos estabelecidos nesta Resolução;
+II - ser aprovado na verificação metrológica pelo INMETRO ou entidade por ele delegada;
+III - ser verificado pelo INMETRO ou entidade por ele delegada, obrigatoriamente com periodicidade máxima de 12 (doze) meses e, eventualmente, conforme determina a legislação metrológica em vigência.
+
+No mesmo sentido, a RESOLUÇÃO 432/13:
+
+Art. 4º O etilômetro (“bafômetro”.) deve atender aos seguintes requisitos:
+I – ter seu modelo aprovado pelo INMETRO;
+II – ser aprovado na verificação metrológica inicial, eventual, em serviço e anual realizadas pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia - INMETRO ou por órgão da Rede Brasileira de Metrologia Legal e Qualidade - RBMLQ;
+
+Logo, qualquer autuação feita por equipamento eletrônico não devidamente aferido ou regulamentado deve ser considerada nula de pleno direito.
+
+
+
+
+5º Evitar o Acúmulo de Pontos na CNH
+
+Outro motivo para recorrer de suas multas é evitar o acúmulo de pontos e evitar a suspensão da CNH. Vejamos o artigo 261 da Lei 14.071/2020:
+
+Art. 261. A penalidade de suspensão do direito de dirigir será imposta nos seguintes casos: 
+I - sempre que, conforme a pontuação prevista no art. 259 deste Código, o infrator atingir, no período de 12 (doze) meses, a seguinte contagem de pontos:
+a) 20 (vinte) pontos, caso constem 2 (duas) ou mais infrações gravíssimas na pontuação;
+b) 30 (trinta) pontos, caso conste 1 (uma) infração gravíssima na pontuação;
+c) 40 (quarenta) pontos, caso não conste nenhuma infração gravíssima na pontuação;
+
+Ocorre que a defesa e o recurso de infração de trânsito suspendem a aplicação dos respectivos pontos. Portanto, se você não recorrer de suas multas e acumular esses pontos no período de 12 meses, o DETRAN instaurará o processo de suspensão da sua CNH (PSDD).
+
+
+
+
+Por fim, caso precise de realizar uma defesa ou recurso para suas multas conte com nossa plataforma! A Smart Multas é uma plataforma tecnológica, inteiramente digital, idealizada com o intuito de automatizar a produção de defesas e recursos de multas de trânsito, permitindo que cada usuário faça seu próprio recurso com poucos cliques. Para elaboração da Plataforma, os advogados responsáveis pesquisaram mais de mil casos e jurisprudências pertinentes, recolhendo as melhores teses jurídicas aplicáveis na atualidade. Em seguida, bastou criar uma inteligência artificial capaz de escolher, de acordo com o caso concreto, as teses viáveis para defesa, gerando automaticamente a melhor petição possível. Para utilizar a Smart Multas, o procedimento é simples, intuitivo e rápido. Inicialmente, o usuário deve criar uma conta, preenchendo as informações solicitadas que, cabe ressaltar, serão exclusivamente utilizadas para a defesa, assegurado o sigilo dos dados. Depois de cadastrado o motorista e o veículo, as perguntas devem ser respondidas escolhendo-se uma dentre as opções pré-definidas do questionário. Para finalizar, prossiga com o pagamento e pronto, a petição estará disponível para download!
+
+Dica Jurídica Smart Multas: Atenção ao Artigo 281 do CTB
+
+O órgão autuador tem o prazo legal inadiável de 30 dias para expedir a Notificação de Autuação a contar da data da infração. Se a notificação for emitida fora desse prazo, o auto de infração é obrigatoriamente nulo e deve ser arquivado com base no artigo 281, parágrafo único, inciso II do CTB.
+
+DEFESA INTELIGENTE DE MULTAS
+Recebeu uma multa e precisa de recurso urgente?
+
+Nossa Inteligência Artificial analisa os detalhes da sua notificação, cruza com as decisões mais favoráveis dos tribunais e elabora sua petição jurídica completa para Defesa Prévia ou JARI em menos de 3 minutos.
+
+Gerar Recurso da Minha Multa
+Falar no WhatsApp
+Recorra Sem Complicações
+
+Descubra em segundos se sua autuação possui brechas ou nulidades formais.
+
+Petição pronta para impressão ou protocolo online
+
+Fundamentação no CTB e CONTRAN 2026
+
+Evite pontos e suspensão da sua CNH
+
+Analisar Minha Multa
+Direitos Fundamentais do Condutor
+
+Segundo o Código de Trânsito Brasileiro:
+
+📌 Efeito Suspensivo: Ao recorrer no prazo, a multa não é cobrada e os pontos não entram na CNH enquanto tramitar.
+
+📌 Desconto de 40%: Motoristas com cadastro no SNE têm direito a até 40% de desconto sem renunciar a recurso em casos previstos em lei.
+
+📌 Notificação em 30 dias: Se não for postada no prazo legal, o auto perde a validade.
+
+CONTINUE LENDO
+Artigos e Dicas Recomendadas
+CNH & Fiscalização
+10 de setembro de 2026
+Multas free flow suspensas: prazo de 200 dias, pontos na CNH e o que fazer agora
+
+Multas de pedágio free flow foram suspensas por até 200 dias para quitação da tarifa, com chance de recuperar os 5 pontos na CNH. Veja a diferença entre tarifa e multa, SNE, vícios do auto e quando protocolar defesa ou recurso.
+
+Multa Leve
+09 de setembro de 2026
+Multa CNH Digital recusada na blitz: R$ 88,38 pode ser nula? Prazos e recurso
+
+CNH Digital recusada na blitz pode gerar multa leve de R$ 88,38 (art. 232). Veja validade jurídica, consulta ao sistema, prazo de 30 dias para defesa prévia e como recorrer sem garantir cancelamento.
+
+Multa Gravíssima
+08 de setembro de 2026
+Qual a diferença entre multa, infração e autuação?
+
+Muitas pessoas confundem os termos multa, infração e autuação por eles serem falados cotidianamente nas redes sociais, televisão e outras mídias como sinônimos. No entanto, eles são termos distintos que devem ser utilizados de maneira cuidadosa ao elaborar uma defesa prévia ou um recurso de autuação de trânsito.
+
+Legislação Atualizada
+Embasado no CTB e CONTRAN 2026
+Inteligência Artificial
+Análise técnica de falhas formais
+Pagamento Seguro
+Criptografia SSL via Mercado Pago
+Direito de Defesa
+Garantido pelo Art. 5º da CF/88
+Smart Multas
+INTELIGÊNCIA EM DIREITO DE TRÂNSITO
+
+A tecnologia pioneira para motoristas recorrerem de multas indevidas de forma rápida, eficiente e acessível. Analisamos sua autuação e geramos a petição pronta para protocolo.
+
+FORMAS DE PAGAMENTO ACEITAS
+PIX Instantâneo
+Cartão de Crédito
+Mercado Pago
+Recursos & Multas
+Tipos de Multas (CTB)
+Ranking de Infrações
+Blog de Trânsito
+Recorrer Minha Multa
+Indique e Ganhe
+Para Profissionais
+Smart Multas Pro (Despachantes)
+Painel para Advogados
+Proteção Veicular & APVs
+API B2B para Frotas
+Perguntas Frequentes (FAQ)
+Atendimento Oficial
+WhatsApp: (31) 2181-2033
+Atendimento de Segunda a Sexta, das 09h às 18h
+Aviso Legal: A Smart Multas é uma plataforma tecnológica de inteligência artificial aplicada ao Direito de Trânsito que auxilia o cidadão a exercer seu direito constitucional de ampla defesa. Não substituímos a assessoria jurídica individualizada de um advogado devidamente inscrito na OAB.
+© 2026 Smart Multas Tecnologia. Todos os direitos reservados.
+Desenvolvido pela Novamente Software

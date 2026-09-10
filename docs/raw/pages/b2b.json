@@ -1,0 +1,124 @@
+{
+  "title": "Smart Multas",
+  "meta": {
+    "viewport": "width=device-width, initial-scale=1",
+    "theme-color": "#1E293B",
+    "description": "Smart Multas - Recurso de Multa de Trânsito Online com Inteligência Artificial. Petição com IA, documentos ou protocolo com advogado. Pagamento seguro via Mercado Pago."
+  },
+  "ld": [],
+  "headings": [
+    "H5: Portal B2B API"
+  ],
+  "links": [
+    {
+      "text": "Cadastre sua empresa",
+      "href": "/b2b/register"
+    },
+    {
+      "text": "",
+      "href": "https://wa.me/553121812033?text=Ol%C3%A1!%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida%20sobre%20o%20Smart%20Multas."
+    }
+  ],
+  "buttons": [
+    "Entrar"
+  ],
+  "images": [],
+  "text": "Portal B2B API\n\nAcesse sua conta de empresa parceira\n\nE-mail *\nE-mail *\nSenha *\nSenha *\nEntrar\n\nAinda não tem conta? Cadastre sua empresa",
+  "styles": {
+    "body": {
+      "bg": "rgb(248, 250, 252)",
+      "color": "rgb(51, 65, 85)",
+      "font": "Inter, Roboto, Helvetica, Arial, sans-serif"
+    },
+    "bg": [
+      [
+        "rgb(37, 211, 102)",
+        2
+      ],
+      [
+        "rgb(2, 6, 23)",
+        1
+      ],
+      [
+        "rgb(15, 23, 42)",
+        1
+      ],
+      [
+        "rgb(56, 189, 248)",
+        1
+      ]
+    ],
+    "fg": [
+      [
+        "rgb(148, 163, 184)",
+        3
+      ],
+      [
+        "rgb(15, 23, 42)",
+        3
+      ],
+      [
+        "rgb(51, 65, 85)",
+        1
+      ],
+      [
+        "rgb(248, 250, 252)",
+        1
+      ],
+      [
+        "rgb(56, 189, 248)",
+        1
+      ]
+    ],
+    "fonts": [
+      [
+        "Inter, Roboto, Helvetica, Arial, sans-serif",
+        9
+      ]
+    ],
+    "sizes": [
+      [
+        "16px/400",
+        3
+      ],
+      [
+        "14px/400",
+        2
+      ],
+      [
+        "12px/400",
+        2
+      ],
+      [
+        "20px/800",
+        1
+      ],
+      [
+        "16px/700",
+        1
+      ]
+    ],
+    "radii": [
+      [
+        "12px",
+        4
+      ],
+      [
+        "50%",
+        2
+      ],
+      [
+        "16px",
+        1
+      ],
+      [
+        "8px",
+        1
+      ]
+    ],
+    "headings": [],
+    "buttons": [
+      "Entrar | bg=rgb(56, 189, 248) bgi=none color=rgb(15, 23, 42) r=8px fs=16px fw=700 pad=9.6px 24px sh=none"
+    ]
+  }
+}

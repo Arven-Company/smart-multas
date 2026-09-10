@@ -1,0 +1,517 @@
+{
+  "title": "Ranking Nacional de Multas de Trânsito: Marcas e Carros Mais Multados | Smart Multas",
+  "meta": {
+    "viewport": "width=device-width, initial-scale=1",
+    "theme-color": "#1E293B",
+    "description": "Confira o ranking anônimo de quais marcas, carros e anos de veículos levam mais multas no Brasil. Veja as infrações mais comuns do CTB, simule o risco do seu carro e gere seu recurso.",
+    "og:title": "Ranking de Multas: marcas e carros mais multados | Smart Multas",
+    "og:description": "Dados anônimos de multas por marca, modelo, ano e tipo de infração. Simule o raio-X do seu carro e saiba como recorrer.",
+    "og:url": "https://smartmultas.com.br/ranking-multas"
+  },
+  "ld": [
+    "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://smartmultas.com.br/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Ranking de Multas\",\"item\":\"https://smartmultas.com.br/ranking-multas\"}]},{\"@type\":\"Dataset\",\"name\":\"Ranking anônimo de multas de trânsito por marca, modelo e tipo de infração\",\"description\":\"Estatísticas agregadas e anônimas de autuações registradas na plataforma Smart Multas: marcas, modelos, anos e tipos de multa mais frequentes.\",\"url\":\"https://smartmultas.com.br/ranking-multas\",\"creator\":{\"@type\":\"Organization\",\"name\":\"Smart Multas\"},\"temporalCoverage\":\"2026-09-10T18:40:12-03:00\",\"variableMeasured\":[\"marca do veículo\",\"modelo\",\"ano\",\"tipo de infração\",\"pontos na CNH\"]},{\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Quais carros levam mais multas no Brasil?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"O ranking Smart Multas consolida de forma anônima as marcas e modelos mais presentes nas autuações registradas na plataforma, com links para recursos de cada tipo de multa do CTB.\"}},{\"@type\":\"Question\",\"name\":\"Posso recorrer de qualquer multa de trânsito?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Sim. Todo condutor tem direito à defesa prévia, recurso à JARI e, quando cabível, ao CETRAN, sem precisar pagar a multa antecipadamente (Arts. 284 e 286 do CTB).\"}},{\"@type\":\"Question\",\"name\":\"Como gerar minha petição de recurso?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No Smart Multas você gera a petição com IA a partir de R$ 39,90, pode anexar documentos por R$ 69,90 ou contratar protocolo e acompanhamento por R$ 690,00.\"}}]}]}"
+  ],
+  "headings": [
+    "H5: Smart Multas IA",
+    "H1: Ranking de Multas: quais marcas e carros mais levam autuações",
+    "H4: 88",
+    "H4: 450",
+    "H4: R$ 20.952,78",
+    "H5: Raio-X do meu carro",
+    "H4: Teve multa? Gere a petição agora",
+    "H5: R$ 39,90",
+    "H5: R$ 69,90",
+    "H5: R$ 690",
+    "H5: Perguntas frequentes",
+    "H3: 1. De onde vêm esses dados do ranking?",
+    "H3: 2. O ranking substitui estatísticas oficiais do Senatran?",
+    "H3: 3. Como recorrer da multa mais comum do meu carro?",
+    "H3: 4. Preciso pagar a multa antes de recorrer?",
+    "H6: Legislação Atualizada",
+    "H6: Inteligência Artificial",
+    "H6: Pagamento Seguro",
+    "H6: Direito de Defesa",
+    "H5: Smart Multas",
+    "H6: Recursos & Multas",
+    "H6: Para Profissionais",
+    "H6: Atendimento Oficial"
+  ],
+  "links": [
+    {
+      "text": "Smart Multas IA Defesa e Recursos de Trânsito",
+      "href": "/"
+    },
+    {
+      "text": "Tipos de Multas",
+      "href": "/multas"
+    },
+    {
+      "text": "Ranking",
+      "href": "/ranking-multas"
+    },
+    {
+      "text": "Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Recorrer Multa",
+      "href": "/define-violation"
+    },
+    {
+      "text": "Ver preços",
+      "href": "/faq"
+    },
+    {
+      "text": "Dirigir o veículo com apenas uma das mãos segurando ou manuseando telefone celul",
+      "href": "/multas/celular-ao-volante-7633"
+    },
+    {
+      "text": "Transitar em velocidade superior à máxima permitida para o local, medida por ins",
+      "href": "/multas/velocidade-ate-20-7455"
+    },
+    {
+      "text": "Deixar o condutor ou passageiro de usar o cinto de segurança, conforme previsto ",
+      "href": "/multas/cinto-de-seguranca-5185"
+    },
+    {
+      "text": "Transitar em velocidade superior à máxima permitida para o local, medida por ins",
+      "href": "/multas/velocidade-ate-20-7455"
+    },
+    {
+      "text": "Transitar em velocidade superior à máxima permitida para o local, medida por ins",
+      "href": "/multas/velocidade-ate-20-7455"
+    },
+    {
+      "text": "Utilizar-se de veículo para demonstrar ou exibir manobra perigosa, mediante arra",
+      "href": "/multas/utilizar-se-de-veiculo-para-demonstrar-ou-52741"
+    },
+    {
+      "text": "Ultrapassar outro veículo pelo acostamento (59080)",
+      "href": "/multas/ultrapassar-outro-veiculo-pelo-acostamen-59080"
+    },
+    {
+      "text": "Transitar em velocidade superior à máxima permitida para o local, medida por ins",
+      "href": "/multas/velocidade-ate-20-7455"
+    },
+    {
+      "text": "Avançar o sinal vermelho do semáforo ou o de parada obrigatória (60501)",
+      "href": "/multas/avanco-sinal-vermelho-6050"
+    },
+    {
+      "text": "Conduzir o veículo sem equipamento obrigatório ou estando este ineficiente ou in",
+      "href": "/multas/conduzir-o-veiculo-sem-equipamento-obriga-66371"
+    },
+    {
+      "text": "Ver todos os preços",
+      "href": "/faq"
+    },
+    {
+      "text": "Tipos de Multas (CTB)",
+      "href": "/multas"
+    },
+    {
+      "text": "Ranking de Infrações",
+      "href": "/ranking-multas"
+    },
+    {
+      "text": "Blog de Trânsito",
+      "href": "/blog"
+    },
+    {
+      "text": "Recorrer Minha Multa",
+      "href": "/define-violation"
+    },
+    {
+      "text": "Indique e Ganhe",
+      "href": "/indique"
+    },
+    {
+      "text": "Smart Multas Pro (Despachantes)",
+      "href": "/despachantes"
+    },
+    {
+      "text": "Painel para Advogados",
+      "href": "/advogados"
+    },
+    {
+      "text": "Proteção Veicular & APVs",
+      "href": "/protecao-veicular"
+    },
+    {
+      "text": "API B2B para Frotas",
+      "href": "/api-b2b"
+    },
+    {
+      "text": "Perguntas Frequentes (FAQ)",
+      "href": "/faq"
+    },
+    {
+      "text": "WhatsApp: (31) 2181-2033",
+      "href": "https://wa.me/553121812033?text=Ol%C3%A1!%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida%20sobre%20o%20Smart%20Multas."
+    },
+    {
+      "text": "",
+      "href": "https://wa.me/553121812033?text=Ol%C3%A1!%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida%20sobre%20o%20Smart%20Multas."
+    },
+    {
+      "text": "",
+      "href": "https://www.instagram.com/smartmultas.ia"
+    },
+    {
+      "text": "",
+      "href": "https://youtube.com/@smartmultas9896?si=nbMF_Ibb_4cWUeXy"
+    },
+    {
+      "text": "",
+      "href": "https://www.facebook.com/smartmultas"
+    },
+    {
+      "text": "",
+      "href": "https://www.tiktok.com/@smartmultas"
+    },
+    {
+      "text": "Novamente Software",
+      "href": "https://novamentesoftware.com/"
+    },
+    {
+      "text": "",
+      "href": "https://wa.me/553121812033?text=Ol%C3%A1!%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida%20sobre%20o%20Smart%20Multas."
+    }
+  ],
+  "buttons": [
+    "Entrar",
+    "Gerar recurso por R$ 39,90",
+    "Compartilhar",
+    "Simular risco",
+    "Marcas mais multadas",
+    "Modelos",
+    "Por ano do carro",
+    "Tipos de multa",
+    "Fazer minha petição",
+    "1. De onde vêm esses dados do ranking?",
+    "2. O ranking substitui estatísticas oficiais do Senatran?",
+    "3. Como recorrer da multa mais comum do meu carro?",
+    "4. Preciso pagar a multa antes de recorrer?"
+  ],
+  "images": [
+    {
+      "src": "https://smartmultas.com.br/logomultas.webp",
+      "alt": "Smart Multas Logo",
+      "w": 192,
+      "h": 192
+    },
+    {
+      "src": "https://smartmultas.com.br/logomultas.webp",
+      "alt": "Smart Multas Logo",
+      "w": 192,
+      "h": 192
+    }
+  ],
+  "text": "Smart Multas\nIA\nDefesa e Recursos de Trânsito\nTipos de Multas\nRanking\nBlog\nEntrar\nRecorrer Multa\nDADOS 100% ANÔNIMOS · BASE SMART MULTAS\nRanking de Multas: quais marcas e carros mais levam autuações\n\nDescubra as infrações mais comuns do CTB, compare marcas e modelos, simule o raio-X do seu veículo e gere sua petição de recurso.\n\nGerar recurso por R$ 39,90\nVer preços\nCompartilhar\nAUTUAÇÕES ANALISADAS\n88\nPONTOS EM CNH NO RADAR\n450\nVALOR ESTIMADO DAS MULTAS\nR$ 20.952,78\nRaio-X do meu carro\n\nSelecione marca, modelo e ano para ver as multas mais frequentes nesse perfil — dados agregados, sem placa, CPF ou identificação pessoal.\n\nMarca\nMarca\nModelo\nModelo\nAno\n​\nAno\nSimular risco\nMarcas mais multadas\nModelos\nPor ano do carro\nTipos de multa\n\n#1Volvo\n\n8 · 9.1%\n\nMulta mais comum: Dirigir o veículo com apenas uma das mãos segurando ou manuseando telefone celular (76331) · média 4.5 pts\n\n#2Citroën\n\n5 · 5.7%\n\nMulta mais comum: Transitar em velocidade superior à máxima permitida para o local, medida por instrumento ou equipamento hábil, em rodovias, vias de trânsito rápido, vias arteriais e demais vias quando a velocidade for superior à máxima em até 20% (vinte por cento) (74550) · média 4.8 pts\n\n#3Fiat\n\n3 · 3.4%\n\nMulta mais comum: Deixar o condutor ou passageiro de usar o cinto de segurança, conforme previsto no art. 65 do Código de Trânsito Brasileiro (51851) · média 6.33 pts\n\n#4Volkswagen\n\n2 · 2.3%\n\nMulta mais comum: Transitar em velocidade superior à máxima permitida para o local, medida por instrumento ou equipamento hábil, em rodovias, vias de trânsito rápido, vias arteriais e demais vias quando a velocidade for superior à máxima em até 20% (vinte por cento) (74550) · média 5.5 pts\n\n#5Chevrolet\n\n2 · 2.3%\n\nMulta mais comum: Transitar em velocidade superior à máxima permitida para o local, medida por instrumento ou equipamento hábil, em rodovias, vias de trânsito rápido, vias arteriais e demais vias quando a velocidade for superior à máxima em até 20% (vinte por cento) (74550) · média 4 pts\n\n#6Honda\n\n2 · 2.3%\n\nMulta mais comum: Utilizar-se de veículo para demonstrar ou exibir manobra perigosa, mediante arrancada brusca, derrapagem ou frenagem com deslizamento, arrastamento de pneus, frenagem ou derrapagem (52741) · média 5.5 pts\n\n#7Renault\n\n1 · 1.1%\n\nMulta mais comum: Ultrapassar outro veículo pelo acostamento (59080) · média 7 pts\n\n#8Royal Enfield\n\n1 · 1.1%\n\nMulta mais comum: Transitar em velocidade superior à máxima permitida para o local, medida por instrumento ou equipamento hábil, em rodovias, vias de trânsito rápido, vias arteriais e demais vias quando a velocidade for superior à máxima em até 20% (vinte por cento) (74550) · média 4 pts\n\n#9BMW\n\n1 · 1.1%\n\nMulta mais comum: Avançar o sinal vermelho do semáforo ou o de parada obrigatória (60501) · média 7 pts\n\n#10Toyota\n\n1 · 1.1%\n\nMulta mais comum: Conduzir o veículo sem equipamento obrigatório ou estando este ineficiente ou inoperante (66371) · média 5 pts\nCONVERSÃO INTELIGENTE\nTeve multa? Gere a petição agora\n\nPetição por R$ 39,90. Com exames e laudos para a IA, R$ 69,90. Protocolo e acompanhamento por advogado, R$ 690,00.\n\nPETIÇÃO\nR$ 39,90\n+ DOCUMENTOS\nR$ 69,90\nPROTOCOLO\nR$ 690\nFazer minha petição\nVer todos os preços\nPagamento seguro Mercado Pago · LGPD · dados agregados\nPerguntas frequentes\n\n1. De onde vêm esses dados do ranking?\n\n2. O ranking substitui estatísticas oficiais do Senatran?\n\n3. Como recorrer da multa mais comum do meu carro?\n\n4. Preciso pagar a multa antes de recorrer?\n\nAtualizado em 10/09/2026, 18:40:12. Estatísticas sujeitas a variação conforme novos recursos são iniciados na plataforma.\nLegislação Atualizada\nEmbasado no CTB e CONTRAN 2026\nInteligência Artificial\nAnálise técnica de falhas formais\nPagamento Seguro\nCriptografia SSL via Mercado Pago\nDireito de Defesa\nGarantido pelo Art. 5º da CF/88\nSmart Multas\nINTELIGÊNCIA EM DIREITO DE TRÂNSITO\n\nA tecnologia pioneira para motoristas recorrerem de multas indevidas de forma rápida, eficiente e acessível. Analisamos sua autuação e geramos a petição pronta para protocolo.\n\nFORMAS DE PAGAMENTO ACEITAS\nPIX Instantâneo\nCartão de Crédito\nMercado Pago\nRecursos & Multas\nTipos de Multas (CTB)\nRanking de Infrações\nBlog de Trânsito\nRecorrer Minha Multa\nIndique e Ganhe\nPara Profissionais\nSmart Multas Pro (Despachantes)\nPainel para Advogados\nProteção Veicular & APVs\nAPI B2B para Frotas\nPerguntas Frequentes (FAQ)\nAtendimento Oficial\nWhatsApp: (31) 2181-2033\nAtendimento de Segunda a Sexta, das 09h às 18h\nAviso Legal: A Smart Multas é uma plataforma tecnológica de inteligência artificial aplicada ao Direito de Trânsito que auxilia o cidadão a exercer seu direito constitucional de ampla defesa. Não substituímos a assessoria jurídica individualizada de um advogado devidamente inscrito na OAB.\n© 2026 Smart Multas Tecnologia. Todos os direitos reservados.\nDesenvolvido pela Novamente Software",
+  "styles": {
+    "body": {
+      "bg": "rgb(248, 250, 252)",
+      "color": "rgb(51, 65, 85)",
+      "font": "Inter, Roboto, Helvetica, Arial, sans-serif"
+    },
+    "bg": [
+      [
+        "rgb(30, 41, 59)",
+        11
+      ],
+      [
+        "rgba(30, 41, 59, 0.08)",
+        10
+      ],
+      [
+        "rgb(255, 255, 255)",
+        9
+      ],
+      [
+        "rgba(255, 255, 255, 0.06)",
+        5
+      ],
+      [
+        "rgb(217, 119, 6)",
+        3
+      ],
+      [
+        "rgb(16, 185, 129)",
+        2
+      ],
+      [
+        "rgb(37, 211, 102)",
+        2
+      ],
+      [
+        "rgba(255, 255, 255, 0.94)",
+        1
+      ],
+      [
+        "rgba(37, 99, 235, 0.1)",
+        1
+      ],
+      [
+        "rgb(37, 99, 235)",
+        1
+      ],
+      [
+        "rgba(15, 23, 42, 0.04)",
+        1
+      ],
+      [
+        "rgb(248, 250, 252)",
+        1
+      ],
+      [
+        "radial-gradient(circle at 20% 20%, rgba(16, 185, 129, 0.25), rgba(0, 0, 0, 0) 40%), radial-gradient(circle at 80% 0%, rgba(245, 158, 11, 0.2), rgba(0, 0, 0, 0) ",
+        1
+      ],
+      [
+        "rgba(255, 255, 255, 0.12)",
+        1
+      ],
+      [
+        "linear-gradient(135deg, rgba(5, 150, 105, 0.06), rgba(217, 119, 6, 0.05))",
+        1
+      ],
+      [
+        "rgba(0, 0, 0, 0.12)",
+        1
+      ],
+      [
+        "linear-gradient(120deg, rgba(217, 119, 6, 0.08), rgba(5, 150, 105, 0.08))",
+        1
+      ],
+      [
+        "rgb(9, 13, 22)",
+        1
+      ],
+      [
+        "rgba(15, 23, 42, 0.75)",
+        1
+      ],
+      [
+        "rgba(34, 197, 94, 0.12)",
+        1
+      ],
+      [
+        "rgba(56, 189, 248, 0.12)",
+        1
+      ],
+      [
+        "rgba(255, 255, 255, 0.08)",
+        1
+      ]
+    ],
+    "fg": [
+      [
+        "rgb(71, 85, 105)",
+        18
+      ],
+      [
+        "rgb(148, 163, 184)",
+        16
+      ],
+      [
+        "rgb(255, 255, 255)",
+        14
+      ],
+      [
+        "rgb(15, 23, 42)",
+        10
+      ],
+      [
+        "rgb(217, 119, 6)",
+        10
+      ],
+      [
+        "rgb(4, 120, 87)",
+        10
+      ],
+      [
+        "rgb(51, 65, 85)",
+        9
+      ],
+      [
+        "rgb(100, 116, 139)",
+        4
+      ],
+      [
+        "rgb(56, 189, 248)",
+        3
+      ],
+      [
+        "rgb(29, 78, 216)",
+        2
+      ],
+      [
+        "rgb(180, 83, 9)",
+        2
+      ],
+      [
+        "rgb(37, 99, 235)",
+        1
+      ],
+      [
+        "rgb(224, 224, 224)",
+        1
+      ],
+      [
+        "rgb(34, 197, 94)",
+        1
+      ],
+      [
+        "rgb(203, 213, 225)",
+        1
+      ]
+    ],
+    "fonts": [
+      [
+        "Inter, Roboto, Helvetica, Arial, sans-serif",
+        102
+      ]
+    ],
+    "sizes": [
+      [
+        "12px/700",
+        16
+      ],
+      [
+        "16px/800",
+        14
+      ],
+      [
+        "14px/700",
+        14
+      ],
+      [
+        "12px/400",
+        11
+      ],
+      [
+        "14.16px/400",
+        10
+      ],
+      [
+        "16px/400",
+        7
+      ],
+      [
+        "12px/800",
+        6
+      ],
+      [
+        "20px/900",
+        6
+      ],
+      [
+        "28px/900",
+        3
+      ],
+      [
+        "14px/800",
+        3
+      ],
+      [
+        "13px/800",
+        2
+      ],
+      [
+        "15px/800",
+        2
+      ],
+      [
+        "10.4px/800",
+        1
+      ],
+      [
+        "10.88px/600",
+        1
+      ],
+      [
+        "14.8px/800",
+        1
+      ],
+      [
+        "54.4px/900",
+        1
+      ],
+      [
+        "19.2px/400",
+        1
+      ],
+      [
+        "32px/900",
+        1
+      ],
+      [
+        "12px/600",
+        1
+      ],
+      [
+        "14px/400",
+        1
+      ]
+    ],
+    "radii": [
+      [
+        "60px",
+        20
+      ],
+      [
+        "12px",
+        11
+      ],
+      [
+        "50%",
+        8
+      ],
+      [
+        "16px",
+        6
+      ],
+      [
+        "36px",
+        6
+      ],
+      [
+        "30px",
+        5
+      ],
+      [
+        "50px",
+        4
+      ],
+      [
+        "8px",
+        2
+      ],
+      [
+        "24px",
+        1
+      ]
+    ],
+    "headings": [
+      "H1 54.4px 900 Inter, Roboto, Helvetica, Arial, sans-se rgb(255, 255, 255) lh=59.84px ls=-1.088px",
+      "H3 16px 400 Inter, Roboto, Helvetica, Arial, sans-se rgb(15, 23, 42) lh=25.6px ls=normal",
+      "H3 16px 400 Inter, Roboto, Helvetica, Arial, sans-se rgb(15, 23, 42) lh=25.6px ls=normal",
+      "H3 16px 400 Inter, Roboto, Helvetica, Arial, sans-se rgb(15, 23, 42) lh=25.6px ls=normal",
+      "H3 16px 400 Inter, Roboto, Helvetica, Arial, sans-se rgb(15, 23, 42) lh=25.6px ls=normal"
+    ],
+    "buttons": [
+      "Entrar | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(51, 65, 85) r=30px fs=14.4px fw=600 pad=8px 16px sh=none",
+      " | bg=rgba(15, 23, 42, 0.04) bgi=none color=rgb(15, 23, 42) r=24px fs=24px fw=400 pad=8px sh=none",
+      "Gerar recurso por R$ 39,90 | bg=rgb(16, 185, 129) bgi=none color=rgb(255, 255, 255) r=50px fs=15px fw=800 pad=12px 28px sh=rgba(16, 185, 129, 0.39) 0px 4px 14px 0px",
+      "Compartilhar | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(238, 238, 238) r=8px fs=15px fw=700 pad=10px 24px sh=none",
+      " | bg=rgba(0, 0, 0, 0) bgi=none color=rgba(0, 0, 0, 0.54) r=50% fs=24px fw=400 pad=2px sh=none",
+      "Simular risco | bg=rgba(0, 0, 0, 0.12) bgi=none color=rgba(0, 0, 0, 0.26) r=8px fs=15px fw=800 pad=13.6px 24px sh=none",
+      "Marcas mais multadas | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(30, 41, 59) r=0px fs=16px fw=800 pad=9px 16px sh=none",
+      "Modelos | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(71, 85, 105) r=0px fs=16px fw=800 pad=9px 16px sh=none",
+      "Por ano do carro | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(71, 85, 105) r=0px fs=16px fw=800 pad=9px 16px sh=none",
+      "Tipos de multa | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(71, 85, 105) r=0px fs=16px fw=800 pad=9px 16px sh=none",
+      "Fazer minha petição | bg=rgb(16, 185, 129) bgi=none color=rgb(255, 255, 255) r=50px fs=15px fw=800 pad=13.6px 24px sh=rgba(16, 185, 129, 0.39) 0px 4px 14px 0px",
+      "1. De onde vêm esses dados do  | bg=rgba(0, 0, 0, 0) bgi=none color=rgb(15, 23, 42) r=0px fs=13.3333px fw=400 pad=0px 16px sh=none"
+    ]
+  }
+}
